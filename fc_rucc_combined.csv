@@ -1,0 +1,1377 @@
+"group","county_fips","State","County_Name","RUCC_2013","lat_rounded","lng_rounded","oc_formatted","lat_rounded_fc","lng_rounded_fc"
+"treatment",4013,"AZ","Maricopa County",1,33.355,-112.485,"7037 West Van Buren Street, Phoenix, AZ 85043, United States of America",33.455,-112.205
+"treatment",4013,"AZ","Maricopa County",1,33.355,-112.485,"W Mohave St, Phoenix, AZ, United States of America",33.435,-112.155
+"treatment",4013,"AZ","Maricopa County",1,33.355,-112.485,"Amazon PHX7, 800 North 75th Avenue, Phoenix, AZ 85043, United States of America",33.455,-112.225
+"treatment",4013,"AZ","Maricopa County",1,33.355,-112.485,"Amazon TUS1, 5333 West Lower Buckeye Road, Phoenix, AZ 85043, United States of America",33.425,-112.175
+"treatment",4013,"AZ","Maricopa County",1,33.355,-112.485,"Amazon PHX3, 6835 West Buckeye Road, Phoenix, AZ 85043, United States of America",33.435,-112.205
+"treatment",4013,"AZ","Maricopa County",1,33.355,-112.485,"Amazon PHX5, 16920 West Commerce Drive, Goodyear, AZ 85338, United States of America",33.405,-112.415
+"treatment",4013,"AZ","Maricopa County",1,33.355,-112.485,"Amazon PHX9, 777 South 79th Avenue, Phoenix, AZ 85353, United States of America",33.445,-112.225
+"treatment",6065,"CA","Riverside County",1,33.745,-115.995,"Mira Loma, California, United States of America",33.985,-117.515
+"treatment",6065,"CA","Riverside County",1,33.745,-115.995,"Krameria Avenue, Riverside, CA 92508, United States of America",33.885,-117.335
+"treatment",6065,"CA","Riverside County",1,33.745,-115.995,"Amazon ONT6, 24208 San Michele Road, Moreno Valley, CA 92551, United States of America",33.865,-117.235
+"treatment",6065,"CA","Riverside County",1,33.745,-115.995,"Nance Street, Perris, CA 92551, United States of America",33.855,-117.215
+"treatment",6067,"CA","Sacramento County",1,38.455,-121.345,"4900 West Elkhorn Boulevard, Sacramento County, CA 95835, United States of America",38.685,-121.575
+"treatment",6071,"CA","San Bernardino County",1,34.845,-116.175,"Amazon Fulfillment Center ONT9, 2125 West San Bernardino Avenue, Redlands, CA 92374, United States of America",34.075,-117.225
+"treatment",6071,"CA","San Bernardino County",1,34.845,-116.175,"West Walnut Avenue, Rialto, CA 92376, United States of America",34.135,-117.375
+"treatment",6071,"CA","San Bernardino County",1,34.845,-116.175,"Subaru, 1590 North Tamarind Avenue, Rialto, CA 92376, United States of America",34.125,-117.425
+"treatment",6071,"CA","San Bernardino County",1,34.845,-116.175,"E Central Ave, San Bernardino, CA, United States of America",34.085,-117.245
+"treatment",6071,"CA","San Bernardino County",1,34.845,-116.175,"Amazon, 555 East Orange Show Road, San Bernardino, CA 92408, United States of America",34.085,-117.275
+"treatment",8001,"CO","Adams County",1,39.875,-104.335,"Amazon DEN2, 22205 East 19th Avenue, Aurora, CO 80019, United States of America",39.745,-104.725
+"treatment",9003,"CT","Hartford County",1,41.805,-72.735,"200 Old Iron Ore Road, Windsor, CT 06095, United States of America",41.885,-72.705
+"treatment",10003,"DE","New Castle County",1,39.585,-75.655,"Merrimac Avenue, Middletown, DE, United States of America",39.455,-75.735
+"treatment",12031,"FL","Duval County",1,30.335,-81.665,"Amazon Fulfillment Center JAX2, 12900 Pecan Park Road, Jacksonville, FL 32218, United States of America",30.465,-81.685
+"treatment",12031,"FL","Duval County",1,30.335,-81.665,"Amazon Fulfillment Center JAX3, 13333 103rd Street, Jacksonville, FL 32221, United States of America",30.255,-81.865
+"treatment",12057,"FL","Hillsborough County",1,27.935,-82.305,"TPA1 Amazon Fulfillment Center, 3350 Laurel Ridge Avenue, Hillsborough County, FL 33570, United States of America",27.735,-82.385
+"treatment",12095,"FL","Orange County",1,28.515,-81.325,"7469 Kingspointe Parkway, Orlando, FL 32819, United States of America",28.465,-81.435
+"treatment",12095,"FL","Orange County",1,28.515,-81.325,"West Landstreet Road, Orange County, FL 32859, United States of America",28.435,-81.405
+"treatment",13097,"GA","Douglas County",1,33.705,-84.765,"Thornton Road, Lithia Springs, GA 30122, United States of America",33.795,-84.635
+"treatment",17043,"IL","DuPage County",1,41.855,-88.085,"Ferry Road, Aurora, IL 60502, United States of America",41.815,-88.235
+"treatment",17097,"IL","Lake County",1,42.325,-88.005,"W Brooke Ave, Waukegan, IL, United States of America",42.395,-87.875
+"treatment",17119,"IL","Madison County",1,38.835,-89.905,"Amazon STL6/STL7/HLU1, 3931 Lakeview Corporate Drive, Hartford, Madison County, IL 62048, United States of America",38.785,-90.075
+"treatment",17119,"IL","Madison County",1,38.835,-89.905,"Amazon STL4, 3050 Gateway Commerce Center Drive South, Edwardsville, IL 62025, United States of America",38.775,-90.035
+"treatment",17197,"IL","Will County",1,41.445,-87.975,"Emerald Drive, Joliet, IL 60433, United States of America",41.485,-88.065
+"treatment",17197,"IL","Will County",1,41.445,-87.975,"Remington Blvd, Romeoville, IL, United States of America",41.665,-88.115
+"treatment",17197,"IL","Will County",1,41.445,-87.975,"Amazon Fulfillment Center MDW7, 6605 West Monee Manhattan Road, Monee, Will County, IL 60449, United States of America",41.425,-87.775
+"treatment",18011,"IN","Boone County",1,40.045,-86.465,"Amazon.com Fulfillment Center (IND1), 4255 Anson Blvd, Whitestown, Boone County, IN 46075, United States of America",39.975,-86.375
+"treatment",18011,"IN","Boone County",1,40.045,-86.465,"Industrial Dr, Carmel, IN, United States of America",39.975,-86.135
+"treatment",18019,"IN","Clark County",1,38.475,-85.705,"Amazon SDF8, 900 Patrol Road, Jeffersonville, IN 47130, United States of America",38.385,-85.685
+"treatment",18063,"IN","Hendricks County",1,39.775,-86.505,"Plainfield, Indiana, United States of America",39.705,-86.395
+"treatment",18063,"IN","Hendricks County",1,39.775,-86.505,"800 Perry Road, Plainfield, IN 46168, United States of America",39.695,-86.355
+"treatment",18063,"IN","Hendricks County",1,39.775,-86.505,"710 South Girls School Road, Indianapolis, IN 46231, United States of America",39.755,-86.285
+"treatment",18097,"IN","Marion County",1,39.785,-86.135,"Oriole Ct, Indianapolis, IN, United States of America",39.745,-86.325
+"treatment",20091,"KS","Johnson County",1,38.885,-94.825,"Edgerton Rd, Gardner, KS, United States of America",38.845,-95.015
+"treatment",20209,"KS","Wyandotte County",1,39.115,-94.765,"Amazon MKC6, 6925 Riverview Avenue, Kansas City, KS 66102, United States of America",39.095,-94.735
+"treatment",21015,"KY","Boone County",1,38.975,-84.725,"Amazon Fullfillment Center CVG2, 1600 Worldwide Boulevard, Hebron, Boone County, KY 41048, United States of America",39.085,-84.725
+"treatment",21015,"KY","Boone County",1,38.975,-84.725,"Amazon AUV1, 3521 Point Pleasant Road, Hebron, Boone County, KY 41048, United States of America",39.055,-84.635
+"treatment",21015,"KY","Boone County",1,38.975,-84.725,"1155 Worldwide Blvd, Hebron, KY, United States of America",39.085,-84.725
+"treatment",21029,"KY","Bullitt County",1,37.975,-85.695,"Shepherdsville, Kentucky, United States of America",37.965,-85.705
+"treatment",21029,"KY","Bullitt County",1,37.975,-85.695,"Omega Parkway, Shepherdsville, Bullitt County, KY 40165, United States of America",37.975,-85.685
+"treatment",21029,"KY","Bullitt County",1,37.975,-85.695,"Thomas St, Radcliff, KY, United States of America",37.825,-85.935
+"treatment",21111,"KY","Jefferson County",1,38.195,-85.655,"4360 Robards Lane, Watterson Park, Jefferson County, KY 40218, United States of America",38.195,-85.695
+"treatment",21117,"KY","Kenton County",1,38.935,-84.535,"4620 Olympic Boulevard, Erlanger, KY 41018, United States of America",39.045,-84.615
+"treatment",24015,"MD","Cecil County",1,39.575,-75.935,"Cecil Pkwy, North East, MD, United States of America",39.575,-75.975
+"treatment",24510,"MD","Baltimore city",1,39.305,-76.615,"BWI2 Amazon Fulfillment Center, 2010 Broening Highway, Point Breeze, Baltimore, MD 21224, United States of America",39.275,-76.545
+"treatment",26163,"MI","Wayne County",1,42.285,-83.275,"39000 Amrhein Road, Livonia, MI 48150, United States of America",42.375,-83.425
+"treatment",27139,"MN","Scott County",1,44.655,-93.535,"Amazon Fullfillment Center MSP1, 2601 4th Avenue East, Shakopee, MN 55379, United States of America",44.805,-93.485
+"treatment",32003,"NV","Clark County",1,36.215,-115.015,"3837 Bay Lake Trail, North Las Vegas, NV 89030, United States of America",36.225,-115.105
+"treatment",32003,"NV","Clark County",1,36.215,-115.015,"East Nexus Way, North Las Vegas, NV 89165, United States of America",36.265,-115.075
+"treatment",34003,"NJ","Bergen County",1,40.965,-74.075,"Teterboro, New Jersey, United States of America",40.865,-74.055
+"treatment",34015,"NJ","Gloucester County",1,39.715,-75.135,"Logan Township, New Jersey, United States of America",39.795,-75.355
+"treatment",34023,"NJ","Middlesex County",1,40.445,-74.405,"Industrial Rd, Carteret, NJ, United States of America",40.595,-74.225
+"treatment",34023,"NJ","Middlesex County",1,40.445,-74.405,"380 Middlesex Avenue, Chrome, Carteret, NJ 07008, United States of America",40.575,-74.215
+"treatment",34023,"NJ","Middlesex County",1,40.445,-74.405,"Hightstown-Cranbury Station Road, Cranbury Station, Cranbury Township, NJ 18520, United States of America",40.295,-74.495
+"treatment",34023,"NJ","Middlesex County",1,40.445,-74.405,"Amazon Fulfillment Center LGA9, 2170 Lincoln Highway, Edison, NJ 08817, United States of America",40.535,-74.375
+"treatment",39049,"OH","Franklin County",1,39.975,-83.005,"Gateway Cir, Grove City, OH, United States of America",39.885,-83.045
+"treatment",39089,"OH","Licking County",1,40.095,-82.485,"11903 National Road Southwest, Wagram, Etna, OH 43062, United States of America",39.955,-82.715
+"treatment",42091,"PA","Montgomery County",1,40.215,-75.365,"Generals Dr, Norristown, PA, United States of America",40.155,-75.355
+"treatment",47149,"TN","Rutherford County",1,35.845,-86.415,"Joe B. Jackson Parkway, Murfreesboro, TN 37127, United States of America",35.785,-86.355
+"treatment",47189,"TN","Wilson County",1,36.155,-86.295,"Duke Drive, Lebanon, TN, United States of America",36.125,-86.405
+"treatment",48029,"TX","Bexar County",1,29.455,-98.515,"Amazon SAT1, 6000 Schertz Parkway, Schertz, TX 78154, United States of America",29.605,-98.285
+"treatment",48113,"TX","Dallas County",1,32.765,-96.775,"Amazon Fulfilment Center DFW6, 940 West Bethel Road, Coppell, TX 75019, United States of America",32.965,-97.015
+"treatment",48113,"TX","Dallas County",1,32.765,-96.775,"West Sandy Lake Road, Coppell, TX 75019, United States of America",32.975,-96.995
+"treatment",48113,"TX","Dallas County",1,32.765,-96.775,"Amazon FTW2, 2701 West Bethel Road, Coppell, TX 75019, United States of America",32.955,-97.025
+"treatment",48113,"TX","Dallas County",1,32.765,-96.775,"Balmorhea Drive, Dallas, TX 75134, United States of America",32.635,-96.765
+"treatment",48121,"TX","Denton County",1,33.205,-97.115,"4121 International Parkway, Carrollton, TX 75007, United States of America",33.025,-96.845
+"treatment",48201,"TX","Harris County",1,29.855,-95.395,"Amazon HOU2, 10550 Ella Boulevard, North Houston District, TX 77038, United States of America",29.935,-95.425
+"treatment",48209,"TX","Hays County",1,30.065,-98.025,"Amazon SAT2, 1401 East McCarty Lane, San Marcos, TX 78666, United States of America",29.835,-97.965
+"treatment",48439,"TX","Tarrant County",1,32.775,-97.285,"14900 Frye Road, Fort Worth, TX 76155, United States of America",32.825,-97.045
+"treatment",48439,"TX","Tarrant County",1,32.775,-97.285,"Amazon Fulfillment Center DFW7, 700 Westport Parkway, Fort Worth, TX 76177, United States of America",32.975,-97.335
+"treatment",48439,"TX","Tarrant County",1,32.775,-97.285,"Heritage Parkway, Fort Worth, TX 76177, United States of America",32.975,-97.315
+"treatment",51041,"VA","Chesterfield County",1,37.385,-77.585,"RIC2 Amazon Fulfillment Center, 1901 Meadowville Technology Parkway, Meadowville, Chester, VA 23836, United States of America",37.355,-77.325
+"treatment",51053,"VA","Dinwiddie County",1,37.075,-77.625,"Amazon Fulfillment Center, 5000 Commerce Way, Addison, Petersburg, VA 23803, United States of America",37.195,-77.495
+"treatment",53033,"WA","King County",1,47.495,-121.805,"Amazon BFI4, 21005 64th Avenue South, Kent, WA 98032, United States of America",47.415,-122.255
+"treatment",53053,"WA","Pierce County",1,47.025,-122.105,"Amazon BFI3, 2700 Center Drive, DuPont, WA 98327, United States of America",47.115,-122.635
+"treatment",53053,"WA","Pierce County",1,47.025,-122.105,"BFI1 Amazon Fulfillment Center, 1800 140th Avenue East, Sumner, Pierce County, WA 98390, United States of America",47.245,-122.245
+"treatment",53053,"WA","Pierce County",1,47.025,-122.105,"2309 Milwaukee Way, Tacoma, WA 98421, United States of America",47.245,-122.395
+"treatment",55059,"WI","Kenosha County",1,42.575,-88.035,"Amazon Fulfillment Center MKE1, 3501 120th Avenue, Somers, WI 53144, United States of America",42.615,-87.945
+"control",1007,"AL","Bibb County",1,33.005,-87.125,NA,NA,NA
+"control",1009,"AL","Blount County",1,33.975,-86.565,NA,NA,NA
+"control",1021,"AL","Chilton County",1,32.855,-86.715,NA,NA,NA
+"control",1115,"AL","St. Clair County",1,33.715,-86.315,NA,NA,NA
+"control",1117,"AL","Shelby County",1,33.265,-86.655,NA,NA,NA
+"control",1127,"AL","Walker County",1,33.805,-87.295,NA,NA,NA
+"control",4021,"AZ","Pinal County",1,32.905,-111.345,NA,NA,NA
+"control",5035,"AR","Crittenden County",1,35.215,-90.305,NA,NA,NA
+"control",6001,"CA","Alameda County",1,37.645,-121.885,NA,NA,NA
+"control",6013,"CA","Contra Costa County",1,37.925,-121.925,NA,NA,NA
+"control",6017,"CA","El Dorado County",1,38.785,-120.525,NA,NA,NA
+"control",6041,"CA","Marin County",1,38.075,-122.725,NA,NA,NA
+"control",6059,"CA","Orange County",1,33.705,-117.755,NA,NA,NA
+"control",6061,"CA","Placer County",1,39.065,-120.715,NA,NA,NA
+"control",6069,"CA","San Benito County",1,36.605,-121.075,NA,NA,NA
+"control",6075,"CA","San Francisco County",1,37.755,-122.435,NA,NA,NA
+"control",6081,"CA","San Mateo County",1,37.425,-122.325,NA,NA,NA
+"control",6113,"CA","Yolo County",1,38.685,-121.895,NA,NA,NA
+"control",8019,"CO","Clear Creek County",1,39.695,-105.645,NA,NA,NA
+"control",8035,"CO","Douglas County",1,39.335,-104.925,NA,NA,NA
+"control",8039,"CO","Elbert County",1,39.285,-104.135,NA,NA,NA
+"control",8047,"CO","Gilpin County",1,39.855,-105.515,NA,NA,NA
+"control",8059,"CO","Jefferson County",1,39.585,-105.245,NA,NA,NA
+"control",8093,"CO","Park County",1,39.115,-105.715,NA,NA,NA
+"control",9013,"CT","Tolland County",1,41.855,-72.335,NA,NA,NA
+"control",11001,"DC","District of Columbia",1,38.905,-77.015,NA,NA,NA
+"control",12003,"FL","Baker County",1,30.335,-82.285,NA,NA,NA
+"control",12019,"FL","Clay County",1,29.985,-81.855,NA,NA,NA
+"control",12053,"FL","Hernando County",1,28.555,-82.425,NA,NA,NA
+"control",12069,"FL","Lake County",1,28.765,-81.705,NA,NA,NA
+"control",12089,"FL","Nassau County",1,30.615,-81.795,NA,NA,NA
+"control",12097,"FL","Osceola County",1,28.065,-81.155,NA,NA,NA
+"control",12101,"FL","Pasco County",1,28.315,-82.395,NA,NA,NA
+"control",12103,"FL","Pinellas County",1,27.935,-82.725,NA,NA,NA
+"control",12109,"FL","St. Johns County",1,29.905,-81.435,NA,NA,NA
+"control",12117,"FL","Seminole County",1,28.715,-81.235,NA,NA,NA
+"control",13013,"GA","Barrow County",1,33.995,-83.715,NA,NA,NA
+"control",13015,"GA","Bartow County",1,34.245,-84.835,NA,NA,NA
+"control",13035,"GA","Butts County",1,33.285,-83.955,NA,NA,NA
+"control",13045,"GA","Carroll County",1,33.585,-85.075,NA,NA,NA
+"control",13057,"GA","Cherokee County",1,34.245,-84.475,NA,NA,NA
+"control",13063,"GA","Clayton County",1,33.545,-84.355,NA,NA,NA
+"control",13067,"GA","Cobb County",1,33.945,-84.575,NA,NA,NA
+"control",13085,"GA","Dawson County",1,34.445,-84.165,NA,NA,NA
+"control",13113,"GA","Fayette County",1,33.415,-84.495,NA,NA,NA
+"control",13117,"GA","Forsyth County",1,34.225,-84.125,NA,NA,NA
+"control",13143,"GA","Haralson County",1,33.795,-85.205,NA,NA,NA
+"control",13149,"GA","Heard County",1,33.295,-85.125,NA,NA,NA
+"control",13151,"GA","Henry County",1,33.455,-84.155,NA,NA,NA
+"control",13159,"GA","Jasper County",1,33.315,-83.685,NA,NA,NA
+"control",13171,"GA","Lamar County",1,33.075,-84.135,NA,NA,NA
+"control",13199,"GA","Meriwether County",1,33.045,-84.685,NA,NA,NA
+"control",13211,"GA","Morgan County",1,33.595,-83.485,NA,NA,NA
+"control",13217,"GA","Newton County",1,33.555,-83.845,NA,NA,NA
+"control",13223,"GA","Paulding County",1,33.925,-84.865,NA,NA,NA
+"control",13227,"GA","Pickens County",1,34.465,-84.465,NA,NA,NA
+"control",13231,"GA","Pike County",1,33.095,-84.385,NA,NA,NA
+"control",13247,"GA","Rockdale County",1,33.655,-84.025,NA,NA,NA
+"control",13255,"GA","Spalding County",1,33.265,-84.285,NA,NA,NA
+"control",13297,"GA","Walton County",1,33.785,-83.735,NA,NA,NA
+"control",17005,"IL","Bond County",1,38.885,-89.435,NA,NA,NA
+"control",17013,"IL","Calhoun County",1,39.175,-90.665,NA,NA,NA
+"control",17027,"IL","Clinton County",1,38.605,-89.425,NA,NA,NA
+"control",17037,"IL","DeKalb County",1,41.895,-88.765,NA,NA,NA
+"control",17063,"IL","Grundy County",1,41.285,-88.415,NA,NA,NA
+"control",17083,"IL","Jersey County",1,39.085,-90.355,NA,NA,NA
+"control",17089,"IL","Kane County",1,41.945,-88.425,NA,NA,NA
+"control",17093,"IL","Kendall County",1,41.595,-88.425,NA,NA,NA
+"control",17117,"IL","Macoupin County",1,39.265,-89.925,NA,NA,NA
+"control",17133,"IL","Monroe County",1,38.285,-90.175,NA,NA,NA
+"control",17163,"IL","St. Clair County",1,38.475,-89.925,NA,NA,NA
+"control",18013,"IN","Brown County",1,39.195,-86.225,NA,NA,NA
+"control",18029,"IN","Dearborn County",1,39.145,-84.975,NA,NA,NA
+"control",18043,"IN","Floyd County",1,38.325,-85.905,NA,NA,NA
+"control",18057,"IN","Hamilton County",1,40.075,-86.045,NA,NA,NA
+"control",18059,"IN","Hancock County",1,39.825,-85.775,NA,NA,NA
+"control",18061,"IN","Harrison County",1,38.195,-86.105,NA,NA,NA
+"control",18073,"IN","Jasper County",1,41.025,-87.115,NA,NA,NA
+"control",18089,"IN","Lake County",1,41.415,-87.375,NA,NA,NA
+"control",18095,"IN","Madison County",1,40.155,-85.715,NA,NA,NA
+"control",18109,"IN","Morgan County",1,39.475,-86.445,NA,NA,NA
+"control",18111,"IN","Newton County",1,40.955,-87.395,NA,NA,NA
+"control",18115,"IN","Ohio County",1,38.955,-84.965,NA,NA,NA
+"control",18127,"IN","Porter County",1,41.465,-87.065,NA,NA,NA
+"control",18133,"IN","Putnam County",1,39.665,-86.845,NA,NA,NA
+"control",18143,"IN","Scott County",1,38.685,-85.745,NA,NA,NA
+"control",18145,"IN","Shelby County",1,39.525,-85.785,NA,NA,NA
+"control",18161,"IN","Union County",1,39.625,-84.925,NA,NA,NA
+"control",18175,"IN","Washington County",1,38.605,-86.105,NA,NA,NA
+"control",20103,"KS","Leavenworth County",1,39.205,-95.035,NA,NA,NA
+"control",20107,"KS","Linn County",1,38.215,-94.845,NA,NA,NA
+"control",20121,"KS","Miami County",1,38.565,-94.835,NA,NA,NA
+"control",21023,"KY","Bracken County",1,38.695,-84.085,NA,NA,NA
+"control",21037,"KY","Campbell County",1,38.945,-84.375,NA,NA,NA
+"control",21077,"KY","Gallatin County",1,38.755,-84.855,NA,NA,NA
+"control",21081,"KY","Grant County",1,38.655,-84.625,NA,NA,NA
+"control",21103,"KY","Henry County",1,38.455,-85.115,NA,NA,NA
+"control",21185,"KY","Oldham County",1,38.405,-85.445,NA,NA,NA
+"control",21191,"KY","Pendleton County",1,38.695,-84.355,NA,NA,NA
+"control",21211,"KY","Shelby County",1,38.215,-85.195,NA,NA,NA
+"control",21215,"KY","Spencer County",1,38.035,-85.325,NA,NA,NA
+"control",21223,"KY","Trimble County",1,38.615,-85.335,NA,NA,NA
+"control",22051,"LA","Jefferson Parish",1,29.745,-90.115,NA,NA,NA
+"control",22071,"LA","Orleans Parish",1,30.075,-89.925,NA,NA,NA
+"control",22075,"LA","Plaquemines Parish",1,29.435,-89.625,NA,NA,NA
+"control",22087,"LA","St. Bernard Parish",1,29.875,-89.535,NA,NA,NA
+"control",22089,"LA","St. Charles Parish",1,29.905,-90.355,NA,NA,NA
+"control",22093,"LA","St. James Parish",1,30.025,-90.795,NA,NA,NA
+"control",22095,"LA","St. John the Baptist Parish",1,30.125,-90.465,NA,NA,NA
+"control",22103,"LA","St. Tammany Parish",1,30.415,-89.955,NA,NA,NA
+"control",24003,"MD","Anne Arundel County",1,39.005,-76.605,NA,NA,NA
+"control",24009,"MD","Calvert County",1,38.545,-76.565,NA,NA,NA
+"control",24013,"MD","Carroll County",1,39.565,-77.025,NA,NA,NA
+"control",24017,"MD","Charles County",1,38.505,-76.985,NA,NA,NA
+"control",24021,"MD","Frederick County",1,39.475,-77.405,NA,NA,NA
+"control",24031,"MD","Montgomery County",1,39.135,-77.205,NA,NA,NA
+"control",24033,"MD","Prince George's County",1,38.835,-76.845,NA,NA,NA
+"control",24035,"MD","Queen Anne's County",1,39.065,-76.025,NA,NA,NA
+"control",25005,"MA","Bristol County",1,41.795,-71.115,NA,NA,NA
+"control",25017,"MA","Middlesex County",1,42.485,-71.395,NA,NA,NA
+"control",25021,"MA","Norfolk County",1,42.165,-71.205,NA,NA,NA
+"control",25025,"MA","Suffolk County",1,42.335,-71.065,NA,NA,NA
+"control",26087,"MI","Lapeer County",1,43.095,-83.215,NA,NA,NA
+"control",26093,"MI","Livingston County",1,42.605,-83.905,NA,NA,NA
+"control",26147,"MI","St. Clair County",1,42.935,-82.675,NA,NA,NA
+"control",27003,"MN","Anoka County",1,45.275,-93.245,NA,NA,NA
+"control",27019,"MN","Carver County",1,44.825,-93.805,NA,NA,NA
+"control",27025,"MN","Chisago County",1,45.505,-92.905,NA,NA,NA
+"control",27059,"MN","Isanti County",1,45.565,-93.295,NA,NA,NA
+"control",27079,"MN","Le Sueur County",1,44.375,-93.725,NA,NA,NA
+"control",27095,"MN","Mille Lacs County",1,45.935,-93.625,NA,NA,NA
+"control",27123,"MN","Ramsey County",1,45.015,-93.095,NA,NA,NA
+"control",27141,"MN","Sherburne County",1,45.445,-93.775,NA,NA,NA
+"control",27143,"MN","Sibley County",1,44.585,-94.225,NA,NA,NA
+"control",27163,"MN","Washington County",1,45.045,-92.885,NA,NA,NA
+"control",27171,"MN","Wright County",1,45.175,-93.965,NA,NA,NA
+"control",28009,"MS","Benton County",1,34.815,-89.185,NA,NA,NA
+"control",28137,"MS","Tate County",1,34.655,-89.945,NA,NA,NA
+"control",28143,"MS","Tunica County",1,34.655,-90.375,NA,NA,NA
+"control",29013,"MO","Bates County",1,38.255,-94.335,NA,NA,NA
+"control",29025,"MO","Caldwell County",1,39.655,-93.985,NA,NA,NA
+"control",29037,"MO","Cass County",1,38.655,-94.355,NA,NA,NA
+"control",29047,"MO","Clay County",1,39.315,-94.415,NA,NA,NA
+"control",29049,"MO","Clinton County",1,39.605,-94.405,NA,NA,NA
+"control",29071,"MO","Franklin County",1,38.405,-91.075,NA,NA,NA
+"control",29095,"MO","Jackson County",1,39.015,-94.345,NA,NA,NA
+"control",29099,"MO","Jefferson County",1,38.265,-90.535,NA,NA,NA
+"control",29107,"MO","Lafayette County",1,39.065,-93.785,NA,NA,NA
+"control",29113,"MO","Lincoln County",1,39.065,-90.955,NA,NA,NA
+"control",29165,"MO","Platte County",1,39.385,-94.775,NA,NA,NA
+"control",29177,"MO","Ray County",1,39.355,-93.985,NA,NA,NA
+"control",29189,"MO","St. Louis County",1,38.645,-90.445,NA,NA,NA
+"control",29219,"MO","Warren County",1,38.765,-91.155,NA,NA,NA
+"control",29510,"MO","St. Louis city",1,38.635,-90.245,NA,NA,NA
+"control",33015,"NH","Rockingham County",1,42.985,-71.125,NA,NA,NA
+"control",33017,"NH","Strafford County",1,43.295,-71.025,NA,NA,NA
+"control",34007,"NJ","Camden County",1,39.805,-74.955,NA,NA,NA
+"control",34013,"NJ","Essex County",1,40.785,-74.245,NA,NA,NA
+"control",34017,"NJ","Hudson County",1,40.735,-74.075,NA,NA,NA
+"control",34019,"NJ","Hunterdon County",1,40.565,-74.915,NA,NA,NA
+"control",34025,"NJ","Monmouth County",1,40.265,-74.215,NA,NA,NA
+"control",34027,"NJ","Morris County",1,40.865,-74.545,NA,NA,NA
+"control",34029,"NJ","Ocean County",1,39.885,-74.275,NA,NA,NA
+"control",34031,"NJ","Passaic County",1,41.035,-74.295,NA,NA,NA
+"control",34037,"NJ","Sussex County",1,41.145,-74.685,NA,NA,NA
+"control",34039,"NJ","Union County",1,40.655,-74.305,NA,NA,NA
+"control",36005,"NY","Bronx County",1,40.855,-73.855,NA,NA,NA
+"control",36027,"NY","Dutchess County",1,41.765,-73.745,NA,NA,NA
+"control",36029,"NY","Erie County",1,42.765,-78.725,NA,NA,NA
+"control",36051,"NY","Livingston County",1,42.735,-77.775,NA,NA,NA
+"control",36059,"NY","Nassau County",1,40.745,-73.585,NA,NA,NA
+"control",36061,"NY","New York County",1,40.775,-73.965,NA,NA,NA
+"control",36063,"NY","Niagara County",1,43.205,-78.745,NA,NA,NA
+"control",36069,"NY","Ontario County",1,42.855,-77.295,NA,NA,NA
+"control",36073,"NY","Orleans County",1,43.255,-78.225,NA,NA,NA
+"control",36079,"NY","Putnam County",1,41.425,-73.745,NA,NA,NA
+"control",36081,"NY","Queens County",1,40.715,-73.815,NA,NA,NA
+"control",36087,"NY","Rockland County",1,41.155,-74.025,NA,NA,NA
+"control",36103,"NY","Suffolk County",1,40.865,-72.845,NA,NA,NA
+"control",36117,"NY","Wayne County",1,43.155,-77.025,NA,NA,NA
+"control",36119,"NY","Westchester County",1,41.165,-73.755,NA,NA,NA
+"control",36123,"NY","Yates County",1,42.635,-77.105,NA,NA,NA
+"control",37053,"NC","Currituck County",1,36.405,-76.005,NA,NA,NA
+"control",37069,"NC","Franklin County",1,36.085,-78.285,NA,NA,NA
+"control",37071,"NC","Gaston County",1,35.295,-81.185,NA,NA,NA
+"control",37073,"NC","Gates County",1,36.445,-76.695,NA,NA,NA
+"control",37097,"NC","Iredell County",1,35.805,-80.875,NA,NA,NA
+"control",37101,"NC","Johnston County",1,35.525,-78.365,NA,NA,NA
+"control",37109,"NC","Lincoln County",1,35.485,-81.225,NA,NA,NA
+"control",37159,"NC","Rowan County",1,35.645,-80.525,NA,NA,NA
+"control",37179,"NC","Union County",1,34.995,-80.525,NA,NA,NA
+"control",39015,"OH","Brown County",1,38.935,-83.865,NA,NA,NA
+"control",39025,"OH","Clermont County",1,39.045,-84.145,NA,NA,NA
+"control",39041,"OH","Delaware County",1,40.285,-83.005,NA,NA,NA
+"control",39045,"OH","Fairfield County",1,39.755,-82.625,NA,NA,NA
+"control",39055,"OH","Geauga County",1,41.505,-81.185,NA,NA,NA
+"control",39073,"OH","Hocking County",1,39.495,-82.475,NA,NA,NA
+"control",39085,"OH","Lake County",1,41.695,-81.235,NA,NA,NA
+"control",39093,"OH","Lorain County",1,41.295,-82.145,NA,NA,NA
+"control",39103,"OH","Medina County",1,41.125,-81.905,NA,NA,NA
+"control",39117,"OH","Morrow County",1,40.525,-82.795,NA,NA,NA
+"control",39127,"OH","Perry County",1,39.735,-82.235,NA,NA,NA
+"control",39129,"OH","Pickaway County",1,39.645,-83.025,NA,NA,NA
+"control",39159,"OH","Union County",1,40.295,-83.365,NA,NA,NA
+"control",39165,"OH","Warren County",1,39.425,-84.165,NA,NA,NA
+"control",40017,"OK","Canadian County",1,35.545,-97.975,NA,NA,NA
+"control",40027,"OK","Cleveland County",1,35.205,-97.325,NA,NA,NA
+"control",40051,"OK","Grady County",1,35.015,-97.885,NA,NA,NA
+"control",40081,"OK","Lincoln County",1,35.705,-96.875,NA,NA,NA
+"control",40083,"OK","Logan County",1,35.925,-97.445,NA,NA,NA
+"control",40087,"OK","McClain County",1,35.015,-97.445,NA,NA,NA
+"control",41005,"OR","Clackamas County",1,45.195,-122.215,NA,NA,NA
+"control",41009,"OR","Columbia County",1,45.945,-123.085,NA,NA,NA
+"control",41067,"OR","Washington County",1,45.565,-123.095,NA,NA,NA
+"control",41071,"OR","Yamhill County",1,45.235,-123.305,NA,NA,NA
+"control",42005,"PA","Armstrong County",1,40.815,-79.465,NA,NA,NA
+"control",42007,"PA","Beaver County",1,40.685,-80.345,NA,NA,NA
+"control",42017,"PA","Bucks County",1,40.335,-75.105,NA,NA,NA
+"control",42019,"PA","Butler County",1,40.905,-79.915,NA,NA,NA
+"control",42029,"PA","Chester County",1,39.975,-75.745,NA,NA,NA
+"control",42045,"PA","Delaware County",1,39.915,-75.405,NA,NA,NA
+"control",42051,"PA","Fayette County",1,39.925,-79.645,NA,NA,NA
+"control",42101,"PA","Philadelphia County",1,40.015,-75.135,NA,NA,NA
+"control",42103,"PA","Pike County",1,41.335,-75.035,NA,NA,NA
+"control",42125,"PA","Washington County",1,40.195,-80.245,NA,NA,NA
+"control",42129,"PA","Westmoreland County",1,40.315,-79.465,NA,NA,NA
+"control",44001,"RI","Bristol County",1,41.715,-71.285,NA,NA,NA
+"control",44003,"RI","Kent County",1,41.675,-71.595,NA,NA,NA
+"control",44005,"RI","Newport County",1,41.555,-71.235,NA,NA,NA
+"control",44007,"RI","Providence County",1,41.875,-71.575,NA,NA,NA
+"control",44009,"RI","Washington County",1,41.475,-71.625,NA,NA,NA
+"control",45023,"SC","Chester County",1,34.695,-81.155,NA,NA,NA
+"control",45057,"SC","Lancaster County",1,34.685,-80.705,NA,NA,NA
+"control",47015,"TN","Cannon County",1,35.815,-86.055,NA,NA,NA
+"control",47021,"TN","Cheatham County",1,36.265,-87.085,NA,NA,NA
+"control",47043,"TN","Dickson County",1,36.155,-87.355,NA,NA,NA
+"control",47047,"TN","Fayette County",1,35.195,-89.415,NA,NA,NA
+"control",47081,"TN","Hickman County",1,35.805,-87.475,NA,NA,NA
+"control",47111,"TN","Macon County",1,36.535,-86.005,NA,NA,NA
+"control",47119,"TN","Maury County",1,35.615,-87.075,NA,NA,NA
+"control",47147,"TN","Robertson County",1,36.525,-86.865,NA,NA,NA
+"control",47159,"TN","Smith County",1,36.255,-85.955,NA,NA,NA
+"control",47165,"TN","Sumner County",1,36.475,-86.455,NA,NA,NA
+"control",47167,"TN","Tipton County",1,35.495,-89.755,NA,NA,NA
+"control",47169,"TN","Trousdale County",1,36.395,-86.155,NA,NA,NA
+"control",47187,"TN","Williamson County",1,35.895,-86.895,NA,NA,NA
+"control",48013,"TX","Atascosa County",1,28.895,-98.525,NA,NA,NA
+"control",48015,"TX","Austin County",1,29.885,-96.275,NA,NA,NA
+"control",48019,"TX","Bandera County",1,29.745,-99.245,NA,NA,NA
+"control",48021,"TX","Bastrop County",1,30.105,-97.305,NA,NA,NA
+"control",48039,"TX","Brazoria County",1,29.195,-95.445,NA,NA,NA
+"control",48055,"TX","Caldwell County",1,29.835,-97.615,NA,NA,NA
+"control",48071,"TX","Chambers County",1,29.745,-94.605,NA,NA,NA
+"control",48085,"TX","Collin County",1,33.195,-96.575,NA,NA,NA
+"control",48091,"TX","Comal County",1,29.815,-98.275,NA,NA,NA
+"control",48139,"TX","Ellis County",1,32.355,-96.795,NA,NA,NA
+"control",48167,"TX","Galveston County",1,29.395,-94.955,NA,NA,NA
+"control",48187,"TX","Guadalupe County",1,29.585,-97.945,NA,NA,NA
+"control",48221,"TX","Hood County",1,32.435,-97.825,NA,NA,NA
+"control",48231,"TX","Hunt County",1,33.125,-96.085,NA,NA,NA
+"control",48251,"TX","Johnson County",1,32.385,-97.365,NA,NA,NA
+"control",48259,"TX","Kendall County",1,29.945,-98.705,NA,NA,NA
+"control",48291,"TX","Liberty County",1,30.155,-94.805,NA,NA,NA
+"control",48325,"TX","Medina County",1,29.355,-99.105,NA,NA,NA
+"control",48339,"TX","Montgomery County",1,30.305,-95.505,NA,NA,NA
+"control",48367,"TX","Parker County",1,32.785,-97.805,NA,NA,NA
+"control",48397,"TX","Rockwall County",1,32.905,-96.405,NA,NA,NA
+"control",48425,"TX","Somervell County",1,32.225,-97.775,NA,NA,NA
+"control",48491,"TX","Williamson County",1,30.655,-97.595,NA,NA,NA
+"control",48493,"TX","Wilson County",1,29.175,-98.085,NA,NA,NA
+"control",48497,"TX","Wise County",1,33.215,-97.655,NA,NA,NA
+"control",49045,"UT","Tooele County",1,40.455,-113.125,NA,NA,NA
+"control",51007,"VA","Amelia County",1,37.335,-77.975,NA,NA,NA
+"control",51013,"VA","Arlington County",1,38.885,-77.095,NA,NA,NA
+"control",51033,"VA","Caroline County",1,38.025,-77.345,NA,NA,NA
+"control",51036,"VA","Charles City County",1,37.355,-77.055,NA,NA,NA
+"control",51043,"VA","Clarke County",1,39.115,-77.995,NA,NA,NA
+"control",51047,"VA","Culpeper County",1,38.485,-77.955,NA,NA,NA
+"control",51061,"VA","Fauquier County",1,38.745,-77.805,NA,NA,NA
+"control",51073,"VA","Gloucester County",1,37.415,-76.545,NA,NA,NA
+"control",51075,"VA","Goochland County",1,37.725,-77.915,NA,NA,NA
+"control",51085,"VA","Hanover County",1,37.765,-77.485,NA,NA,NA
+"control",51093,"VA","Isle of Wight County",1,36.895,-76.725,NA,NA,NA
+"control",51095,"VA","James City County",1,37.335,-76.775,NA,NA,NA
+"control",51101,"VA","King William County",1,37.705,-77.085,NA,NA,NA
+"control",51115,"VA","Mathews County",1,37.435,-76.335,NA,NA,NA
+"control",51127,"VA","New Kent County",1,37.505,-76.995,NA,NA,NA
+"control",51145,"VA","Powhatan County",1,37.545,-77.915,NA,NA,NA
+"control",51153,"VA","Prince William County",1,38.705,-77.475,NA,NA,NA
+"control",51157,"VA","Rappahannock County",1,38.685,-78.155,NA,NA,NA
+"control",51177,"VA","Spotsylvania County",1,38.185,-77.655,NA,NA,NA
+"control",51179,"VA","Stafford County",1,38.425,-77.455,NA,NA,NA
+"control",51183,"VA","Sussex County",1,36.925,-77.265,NA,NA,NA
+"control",51187,"VA","Warren County",1,38.905,-78.205,NA,NA,NA
+"control",51199,"VA","York County",1,37.245,-76.555,NA,NA,NA
+"control",51510,"VA","Alexandria city",1,38.815,-77.085,NA,NA,NA
+"control",51550,"VA","Chesapeake city",1,36.685,-76.295,NA,NA,NA
+"control",51570,"VA","Colonial Heights city",1,37.265,-77.395,NA,NA,NA
+"control",51600,"VA","Fairfax city",1,38.855,-77.295,NA,NA,NA
+"control",51610,"VA","Falls Church city",1,38.885,-77.175,NA,NA,NA
+"control",51630,"VA","Fredericksburg city",1,38.295,-77.485,NA,NA,NA
+"control",51650,"VA","Hampton city",1,37.055,-76.365,NA,NA,NA
+"control",51670,"VA","Hopewell city",1,37.295,-77.295,NA,NA,NA
+"control",51683,"VA","Manassas city",1,38.755,-77.485,NA,NA,NA
+"control",51685,"VA","Manassas Park city",1,38.775,-77.445,NA,NA,NA
+"control",51700,"VA","Newport News city",1,37.105,-76.515,NA,NA,NA
+"control",51710,"VA","Norfolk city",1,36.895,-76.265,NA,NA,NA
+"control",51730,"VA","Petersburg city",1,37.205,-77.395,NA,NA,NA
+"control",51735,"VA","Poquoson city",1,37.135,-76.355,NA,NA,NA
+"control",51740,"VA","Portsmouth city",1,36.845,-76.355,NA,NA,NA
+"control",51760,"VA","Richmond city",1,37.535,-77.475,NA,NA,NA
+"control",51810,"VA","Virginia Beach city",1,36.735,-76.045,NA,NA,NA
+"control",51830,"VA","Williamsburg city",1,37.275,-76.705,NA,NA,NA
+"control",53011,"WA","Clark County",1,45.785,-122.475,NA,NA,NA
+"control",53059,"WA","Skamania County",1,46.025,-121.915,NA,NA,NA
+"control",54037,"WV","Jefferson County",1,39.315,-77.855,NA,NA,NA
+"control",55089,"WI","Ozaukee County",1,43.385,-87.945,NA,NA,NA
+"control",55093,"WI","Pierce County",1,44.725,-92.415,NA,NA,NA
+"control",55109,"WI","St. Croix County",1,45.035,-92.455,NA,NA,NA
+"control",55131,"WI","Washington County",1,43.375,-88.225,NA,NA,NA
+"control",72007,"PR","Aguas Buenas Municipio",1,18.255,-66.125,NA,NA,NA
+"control",72009,"PR","Aibonito Municipio",1,18.135,-66.265,NA,NA,NA
+"control",72017,"PR","Barceloneta Municipio",1,18.445,-66.555,NA,NA,NA
+"control",72019,"PR","Barranquitas Municipio",1,18.205,-66.305,NA,NA,NA
+"control",72021,"PR","Bayamon Municipio",1,18.355,-66.165,NA,NA,NA
+"control",72025,"PR","Caguas Municipio",1,18.215,-66.045,NA,NA,NA
+"control",72029,"PR","Canovanas Municipio",1,18.325,-65.885,NA,NA,NA
+"control",72031,"PR","Carolina Municipio",1,18.375,-65.955,NA,NA,NA
+"control",72033,"PR","Catano Municipio",1,18.445,-66.135,NA,NA,NA
+"control",72035,"PR","Cayey Municipio",1,18.105,-66.155,NA,NA,NA
+"control",72037,"PR","Ceiba Municipio",1,18.255,-65.655,NA,NA,NA
+"control",72039,"PR","Ciales Municipio",1,18.295,-66.515,NA,NA,NA
+"control",72041,"PR","Cidra Municipio",1,18.175,-66.155,NA,NA,NA
+"control",72045,"PR","Comerio Municipio",1,18.225,-66.215,NA,NA,NA
+"control",72047,"PR","Corozal Municipio",1,18.305,-66.325,NA,NA,NA
+"control",72051,"PR","Dorado Municipio",1,18.435,-66.275,NA,NA,NA
+"control",72053,"PR","Fajardo Municipio",1,18.325,-65.655,NA,NA,NA
+"control",72054,"PR","Florida Municipio",1,18.375,-66.555,NA,NA,NA
+"control",72061,"PR","Guaynabo Municipio",1,18.345,-66.115,NA,NA,NA
+"control",72063,"PR","Gurabo Municipio",1,18.265,-65.975,NA,NA,NA
+"control",72069,"PR","Humacao Municipio",1,18.145,-65.805,NA,NA,NA
+"control",72077,"PR","Juncos Municipio",1,18.225,-65.905,NA,NA,NA
+"control",72085,"PR","Las Piedras Municipio",1,18.195,-65.865,NA,NA,NA
+"control",72087,"PR","Loiza Municipio",1,18.425,-65.905,NA,NA,NA
+"control",72089,"PR","Luquillo Municipio",1,18.345,-65.725,NA,NA,NA
+"control",72091,"PR","Manati Municipio",1,18.425,-66.485,NA,NA,NA
+"control",72095,"PR","Maunabo Municipio",1,18.025,-65.925,NA,NA,NA
+"control",72101,"PR","Morovis Municipio",1,18.315,-66.415,NA,NA,NA
+"control",72103,"PR","Naguabo Municipio",1,18.235,-65.755,NA,NA,NA
+"control",72105,"PR","Naranjito Municipio",1,18.285,-66.255,NA,NA,NA
+"control",72107,"PR","Orocovis Municipio",1,18.215,-66.435,NA,NA,NA
+"control",72119,"PR","Rio Grande Municipio",1,18.355,-65.815,NA,NA,NA
+"control",72127,"PR","San Juan Municipio",1,18.395,-66.055,NA,NA,NA
+"control",72129,"PR","San Lorenzo Municipio",1,18.145,-65.975,NA,NA,NA
+"control",72135,"PR","Toa Alta Municipio",1,18.365,-66.245,NA,NA,NA
+"control",72137,"PR","Toa Baja Municipio",1,18.435,-66.215,NA,NA,NA
+"control",72139,"PR","Trujillo Alto Municipio",1,18.335,-65.995,NA,NA,NA
+"control",72143,"PR","Vega Alta Municipio",1,18.415,-66.335,NA,NA,NA
+"control",72145,"PR","Vega Baja Municipio",1,18.435,-66.395,NA,NA,NA
+"control",72151,"PR","Yabucoa Municipio",1,18.075,-65.895,NA,NA,NA
+"treatment",6077,"CA","San Joaquin County",2,37.935,-121.265,"OAK4 Amazon Fulfillment Center, 1555 North Chrisman Road, Tracy, CA 95304, United States of America",37.745,-121.405
+"treatment",6077,"CA","San Joaquin County",2,37.935,-121.265,"Amazon PCA1, 1565 North MacArthur Drive, Tracy, CA 95376, United States of America",37.745,-121.405
+"treatment",6077,"CA","San Joaquin County",2,37.935,-121.265,"Mountain House Pkwy, Tracy, CA, United States of America",37.785,-121.525
+"treatment",6099,"CA","Stanislaus County",2,37.565,-120.995,"Amazon OAK3, 255 Park Center Drive, Patterson, CA 95363, United States of America",37.475,-121.165
+"treatment",12105,"FL","Polk County",2,27.955,-81.695,"TPA2 Amazon Fulfillment Center, 1760 County Line Road, Lakeland, FL 33811, United States of America",28.025,-82.055
+"treatment",21067,"KY","Fayette County",2,38.045,-84.455,"Amazon Fullfillment Center Warehouse LEX2, 172 Trade Street, Viley, Lexington, KY 40511, United States of America",38.075,-84.545
+"treatment",32031,"NV","Washoe County",2,40.665,-119.665,"Amazon RNO4, 8000 North Virginia Street, Reno, NV 89506, United States of America",39.605,-119.845
+"treatment",34021,"NJ","Mercer County",2,40.285,-74.695,"Amazon Fulfillment Center EWR4, 50 New Canton Way, Robbinsville Township, NJ 08691, United States of America",40.195,-74.565
+"treatment",42011,"PA","Berks County",2,40.415,-75.925,"Halls Rd, Kutztown, PA, United States of America",40.495,-75.795
+"treatment",42041,"PA","Cumberland County",2,40.165,-77.265,"40 Logistics Drive, Carlisle, PA 17013, United States of America",40.195,-77.225
+"treatment",42041,"PA","Cumberland County",2,40.165,-77.265,"21 Roadway Drive, Carlisle, PA 17015, United States of America",40.225,-77.115
+"treatment",42041,"PA","Cumberland County",2,40.165,-77.265,"Carlisle Pike, Mechanicsburg, PA, United States of America",40.225,-77.095
+"treatment",42041,"PA","Cumberland County",2,40.165,-77.265,"Allen Road, Carlisle, PA 17013, United States of America",40.195,-77.235
+"treatment",42069,"PA","Lackawanna County",2,41.435,-75.605,"Covington Lake Dr, Gouldsboro, PA, United States of America",41.275,-75.505
+"treatment",42077,"PA","Lehigh County",2,40.615,-75.585,"Boulder Dr, Breinigsville, PA, United States of America",40.565,-75.615
+"treatment",42077,"PA","Lehigh County",2,40.615,-75.585,"Boulder Dr, Breinigsville, PA, United States of America",40.575,-75.625
+"treatment",42079,"PA","Luzerne County",2,41.175,-75.985,"Pittston Ave, Pittston, PA, United States of America",41.305,-75.785
+"treatment",42079,"PA","Luzerne County",2,41.175,-75.985,"Oak Ln, Mountain Top, PA, United States of America",41.145,-75.855
+"treatment",42095,"PA","Northampton County",2,40.755,-75.305,"Van Buren Rd, Easton, PA, United States of America",40.745,-75.275
+"treatment",42133,"PA","York County",2,39.925,-76.725,"Lewisberry, Pennsylvania, United States of America",40.135,-76.855
+"treatment",45063,"SC","Lexington County",2,33.905,-81.265,"222 Old Wire Rd, West Columbia, SC, United States of America",33.895,-81.045
+"treatment",45063,"SC","Lexington County",2,33.905,-81.265,"12th St, West Columbia, SC, United States of America",33.975,-81.065
+"treatment",45083,"SC","Spartanburg County",2,34.935,-81.985,"Amazon Fulfillment Center, 402 John Dodd Road, Wellford, Spartanburg County, SC 29303, United States of America",35.015,-82.035
+"treatment",47065,"TN","Hamilton County",2,35.185,-85.165,"Discovery Drive, Chattanooga, TN 37416, United States of America",35.075,-85.145
+"treatment",55025,"WI","Dane County",2,43.065,-89.415,"1245 East Washington Avenue, Madison, WI 53704, United States of America",43.085,-89.365
+"treatment",55025,"WI","Dane County",2,43.065,-89.415,"4718 Helgesen Drive, Madison, WI 53718, United States of America",43.065,-89.305
+"control",1001,"AL","Autauga County",2,32.535,-86.645,NA,NA,NA
+"control",1051,"AL","Elmore County",2,32.595,-86.145,NA,NA,NA
+"control",1085,"AL","Lowndes County",2,32.155,-86.645,NA,NA,NA
+"control",1089,"AL","Madison County",2,34.765,-86.545,NA,NA,NA
+"control",1097,"AL","Mobile County",2,30.785,-88.205,NA,NA,NA
+"control",1101,"AL","Montgomery County",2,32.225,-86.205,NA,NA,NA
+"control",1113,"AL","Russell County",2,32.295,-85.185,NA,NA,NA
+"control",2020,"AK","Anchorage Municipality",2,61.155,-149.115,NA,NA,NA
+"control",2170,"AK","Matanuska-Susitna Borough",2,62.315,-149.565,NA,NA,NA
+"control",5007,"AR","Benton County",2,36.345,-94.255,NA,NA,NA
+"control",5033,"AR","Crawford County",2,35.595,-94.245,NA,NA,NA
+"control",5045,"AR","Faulkner County",2,35.145,-92.325,NA,NA,NA
+"control",5053,"AR","Grant County",2,34.295,-92.425,NA,NA,NA
+"control",5085,"AR","Lonoke County",2,34.755,-91.885,NA,NA,NA
+"control",5087,"AR","Madison County",2,36.015,-93.725,NA,NA,NA
+"control",5105,"AR","Perry County",2,34.945,-92.925,NA,NA,NA
+"control",5125,"AR","Saline County",2,34.645,-92.675,NA,NA,NA
+"control",5131,"AR","Sebastian County",2,35.205,-94.275,NA,NA,NA
+"control",5143,"AR","Washington County",2,35.975,-94.215,NA,NA,NA
+"control",6047,"CA","Merced County",2,37.195,-120.715,NA,NA,NA
+"control",6053,"CA","Monterey County",2,36.215,-121.235,NA,NA,NA
+"control",6079,"CA","San Luis Obispo County",2,35.385,-120.405,NA,NA,NA
+"control",6083,"CA","Santa Barbara County",2,34.675,-120.015,NA,NA,NA
+"control",6087,"CA","Santa Cruz County",2,37.055,-121.995,NA,NA,NA
+"control",6095,"CA","Solano County",2,38.275,-121.935,NA,NA,NA
+"control",6097,"CA","Sonoma County",2,38.535,-122.885,NA,NA,NA
+"control",8013,"CO","Boulder County",2,40.095,-105.355,NA,NA,NA
+"control",8119,"CO","Teller County",2,38.885,-105.155,NA,NA,NA
+"control",8123,"CO","Weld County",2,40.555,-104.395,NA,NA,NA
+"control",9001,"CT","Fairfield County",2,41.275,-73.385,NA,NA,NA
+"control",9011,"CT","New London County",2,41.485,-72.095,NA,NA,NA
+"control",9015,"CT","Windham County",2,41.835,-71.985,NA,NA,NA
+"control",10005,"DE","Sussex County",2,38.655,-75.385,NA,NA,NA
+"control",12001,"FL","Alachua County",2,29.675,-82.355,NA,NA,NA
+"control",12009,"FL","Brevard County",2,28.295,-80.725,NA,NA,NA
+"control",12021,"FL","Collier County",2,26.115,-81.345,NA,NA,NA
+"control",12033,"FL","Escambia County",2,30.675,-87.365,NA,NA,NA
+"control",12035,"FL","Flagler County",2,29.465,-81.315,NA,NA,NA
+"control",12039,"FL","Gadsden County",2,30.585,-84.615,NA,NA,NA
+"control",12041,"FL","Gilchrist County",2,29.725,-82.795,NA,NA,NA
+"control",12065,"FL","Jefferson County",2,30.445,-83.895,NA,NA,NA
+"control",12071,"FL","Lee County",2,26.585,-81.835,NA,NA,NA
+"control",12083,"FL","Marion County",2,29.215,-82.055,NA,NA,NA
+"control",12113,"FL","Santa Rosa County",2,30.705,-87.015,NA,NA,NA
+"control",12115,"FL","Sarasota County",2,27.185,-82.325,NA,NA,NA
+"control",12129,"FL","Wakulla County",2,30.165,-84.395,NA,NA,NA
+"control",13029,"GA","Bryan County",2,32.015,-81.445,NA,NA,NA
+"control",13033,"GA","Burke County",2,33.065,-81.995,NA,NA,NA
+"control",13047,"GA","Catoosa County",2,34.905,-85.135,NA,NA,NA
+"control",13051,"GA","Chatham County",2,32.005,-81.125,NA,NA,NA
+"control",13053,"GA","Chattahoochee County",2,32.345,-84.785,NA,NA,NA
+"control",13083,"GA","Dade County",2,34.855,-85.505,NA,NA,NA
+"control",13103,"GA","Effingham County",2,32.365,-81.335,NA,NA,NA
+"control",13145,"GA","Harris County",2,32.735,-84.905,NA,NA,NA
+"control",13181,"GA","Lincoln County",2,33.795,-82.445,NA,NA,NA
+"control",13189,"GA","McDuffie County",2,33.485,-82.475,NA,NA,NA
+"control",13197,"GA","Marion County",2,32.355,-84.525,NA,NA,NA
+"control",13215,"GA","Muscogee County",2,32.515,-84.875,NA,NA,NA
+"control",13245,"GA","Richmond County",2,33.365,-82.075,NA,NA,NA
+"control",13295,"GA","Walker County",2,34.735,-85.295,NA,NA,NA
+"control",15003,"HI","Honolulu County",2,21.465,-157.975,NA,NA,NA
+"control",16015,"ID","Boise County",2,43.995,-115.725,NA,NA,NA
+"control",16045,"ID","Gem County",2,44.065,-116.395,NA,NA,NA
+"control",16073,"ID","Owyhee County",2,42.585,-116.165,NA,NA,NA
+"control",17007,"IL","Boone County",2,42.325,-88.825,NA,NA,NA
+"control",17073,"IL","Henry County",2,41.355,-90.125,NA,NA,NA
+"control",17123,"IL","Marshall County",2,41.035,-89.345,NA,NA,NA
+"control",17131,"IL","Mercer County",2,41.205,-90.735,NA,NA,NA
+"control",17143,"IL","Peoria County",2,40.795,-89.755,NA,NA,NA
+"control",17161,"IL","Rock Island County",2,41.475,-90.565,NA,NA,NA
+"control",17175,"IL","Stark County",2,41.095,-89.795,NA,NA,NA
+"control",17179,"IL","Tazewell County",2,40.515,-89.515,NA,NA,NA
+"control",17203,"IL","Woodford County",2,40.795,-89.205,NA,NA,NA
+"control",18129,"IN","Posey County",2,38.025,-87.865,NA,NA,NA
+"control",18141,"IN","St. Joseph County",2,41.615,-86.285,NA,NA,NA
+"control",18163,"IN","Vanderburgh County",2,38.025,-87.585,NA,NA,NA
+"control",18173,"IN","Warrick County",2,38.095,-87.265,NA,NA,NA
+"control",18179,"IN","Wells County",2,40.725,-85.215,NA,NA,NA
+"control",18183,"IN","Whitley County",2,41.145,-85.505,NA,NA,NA
+"control",19011,"IA","Benton County",2,42.085,-92.065,NA,NA,NA
+"control",19049,"IA","Dallas County",2,41.685,-94.035,NA,NA,NA
+"control",19077,"IA","Guthrie County",2,41.685,-94.495,NA,NA,NA
+"control",19085,"IA","Harrison County",2,41.685,-95.815,NA,NA,NA
+"control",19105,"IA","Jones County",2,42.125,-91.125,NA,NA,NA
+"control",19113,"IA","Linn County",2,42.085,-91.595,NA,NA,NA
+"control",19121,"IA","Madison County",2,41.335,-94.015,NA,NA,NA
+"control",19129,"IA","Mills County",2,41.035,-95.615,NA,NA,NA
+"control",19155,"IA","Pottawattamie County",2,41.335,-95.545,NA,NA,NA
+"control",19181,"IA","Warren County",2,41.335,-93.555,NA,NA,NA
+"control",20015,"KS","Butler County",2,37.785,-96.835,NA,NA,NA
+"control",20079,"KS","Harvey County",2,38.045,-97.425,NA,NA,NA
+"control",20095,"KS","Kingman County",2,37.565,-98.135,NA,NA,NA
+"control",20191,"KS","Sumner County",2,37.235,-97.475,NA,NA,NA
+"control",21017,"KY","Bourbon County",2,38.205,-84.215,NA,NA,NA
+"control",21019,"KY","Boyd County",2,38.365,-82.685,NA,NA,NA
+"control",21047,"KY","Christian County",2,36.895,-87.485,NA,NA,NA
+"control",21049,"KY","Clark County",2,37.975,-84.145,NA,NA,NA
+"control",21089,"KY","Greenup County",2,38.545,-82.915,NA,NA,NA
+"control",21101,"KY","Henderson County",2,37.795,-87.575,NA,NA,NA
+"control",21113,"KY","Jessamine County",2,37.865,-84.575,NA,NA,NA
+"control",21209,"KY","Scott County",2,38.295,-84.585,NA,NA,NA
+"control",21221,"KY","Trigg County",2,36.805,-87.875,NA,NA,NA
+"control",21239,"KY","Woodford County",2,38.045,-84.745,NA,NA,NA
+"control",22001,"LA","Acadia Parish",2,30.295,-92.405,NA,NA,NA
+"control",22005,"LA","Ascension Parish",2,30.205,-90.905,NA,NA,NA
+"control",22015,"LA","Bossier Parish",2,32.685,-93.605,NA,NA,NA
+"control",22031,"LA","De Soto Parish",2,32.055,-93.735,NA,NA,NA
+"control",22037,"LA","East Feliciana Parish",2,30.845,-91.045,NA,NA,NA
+"control",22045,"LA","Iberia Parish",2,29.895,-91.725,NA,NA,NA
+"control",22047,"LA","Iberville Parish",2,30.265,-91.345,NA,NA,NA
+"control",22063,"LA","Livingston Parish",2,30.445,-90.725,NA,NA,NA
+"control",22077,"LA","Pointe Coupee Parish",2,30.715,-91.595,NA,NA,NA
+"control",22091,"LA","St. Helena Parish",2,30.825,-90.705,NA,NA,NA
+"control",22099,"LA","St. Martin Parish",2,30.135,-91.605,NA,NA,NA
+"control",22113,"LA","Vermilion Parish",2,29.845,-92.325,NA,NA,NA
+"control",22119,"LA","Webster Parish",2,32.715,-93.335,NA,NA,NA
+"control",22121,"LA","West Baton Rouge Parish",2,30.465,-91.315,NA,NA,NA
+"control",22125,"LA","West Feliciana Parish",2,30.885,-91.415,NA,NA,NA
+"control",23005,"ME","Cumberland County",2,43.845,-70.375,NA,NA,NA
+"control",23023,"ME","Sagadahoc County",2,43.965,-69.855,NA,NA,NA
+"control",23031,"ME","York County",2,43.485,-70.715,NA,NA,NA
+"control",24039,"MD","Somerset County",2,38.115,-75.765,NA,NA,NA
+"control",24045,"MD","Wicomico County",2,38.375,-75.615,NA,NA,NA
+"control",24047,"MD","Worcester County",2,38.215,-75.335,NA,NA,NA
+"control",25013,"MA","Hampden County",2,42.135,-72.625,NA,NA,NA
+"control",25015,"MA","Hampshire County",2,42.345,-72.665,NA,NA,NA
+"control",26015,"MI","Barry County",2,42.595,-85.305,NA,NA,NA
+"control",26027,"MI","Cass County",2,41.915,-85.995,NA,NA,NA
+"control",26037,"MI","Clinton County",2,42.945,-84.595,NA,NA,NA
+"control",26049,"MI","Genesee County",2,43.025,-83.705,NA,NA,NA
+"control",26065,"MI","Ingham County",2,42.595,-84.375,NA,NA,NA
+"control",26077,"MI","Kalamazoo County",2,42.245,-85.525,NA,NA,NA
+"control",26117,"MI","Montcalm County",2,43.315,-85.145,NA,NA,NA
+"control",26139,"MI","Ottawa County",2,42.965,-85.995,NA,NA,NA
+"control",26159,"MI","Van Buren County",2,42.255,-86.015,NA,NA,NA
+"control",26161,"MI","Washtenaw County",2,42.255,-83.835,NA,NA,NA
+"control",27017,"MN","Carlton County",2,46.595,-92.675,NA,NA,NA
+"control",27137,"MN","St. Louis County",2,47.605,-92.465,NA,NA,NA
+"control",28029,"MS","Copiah County",2,31.875,-90.445,NA,NA,NA
+"control",28045,"MS","Hancock County",2,30.415,-89.485,NA,NA,NA
+"control",28047,"MS","Harrison County",2,30.505,-89.105,NA,NA,NA
+"control",28049,"MS","Hinds County",2,32.265,-90.445,NA,NA,NA
+"control",28059,"MS","Jackson County",2,30.535,-88.635,NA,NA,NA
+"control",28121,"MS","Rankin County",2,32.265,-89.945,NA,NA,NA
+"control",28127,"MS","Simpson County",2,31.915,-89.915,NA,NA,NA
+"control",28163,"MS","Yazoo County",2,32.785,-90.395,NA,NA,NA
+"control",29043,"MO","Christian County",2,36.975,-93.185,NA,NA,NA
+"control",29059,"MO","Dallas County",2,37.685,-93.025,NA,NA,NA
+"control",29119,"MO","McDonald County",2,36.635,-94.345,NA,NA,NA
+"control",29167,"MO","Polk County",2,37.615,-93.395,NA,NA,NA
+"control",29225,"MO","Webster County",2,37.285,-92.875,NA,NA,NA
+"control",31025,"NE","Cass County",2,40.905,-96.135,NA,NA,NA
+"control",31055,"NE","Douglas County",2,41.295,-96.155,NA,NA,NA
+"control",31109,"NE","Lancaster County",2,40.785,-96.685,NA,NA,NA
+"control",31155,"NE","Saunders County",2,41.225,-96.635,NA,NA,NA
+"control",31159,"NE","Seward County",2,40.865,-97.135,NA,NA,NA
+"control",31177,"NE","Washington County",2,41.535,-96.215,NA,NA,NA
+"control",32029,"NV","Storey County",2,39.445,-119.525,NA,NA,NA
+"control",34001,"NJ","Atlantic County",2,39.475,-74.655,NA,NA,NA
+"control",34041,"NJ","Warren County",2,40.855,-74.995,NA,NA,NA
+"control",35043,"NM","Sandoval County",2,35.695,-106.865,NA,NA,NA
+"control",35057,"NM","Torrance County",2,34.645,-105.845,NA,NA,NA
+"control",35061,"NM","Valencia County",2,34.715,-106.805,NA,NA,NA
+"control",36001,"NY","Albany County",2,42.605,-73.975,NA,NA,NA
+"control",36007,"NY","Broome County",2,42.165,-75.815,NA,NA,NA
+"control",36043,"NY","Herkimer County",2,43.425,-74.965,NA,NA,NA
+"control",36053,"NY","Madison County",2,42.915,-75.665,NA,NA,NA
+"control",36065,"NY","Oneida County",2,43.245,-75.435,NA,NA,NA
+"control",36075,"NY","Oswego County",2,43.425,-76.135,NA,NA,NA
+"control",36091,"NY","Saratoga County",2,43.105,-73.865,NA,NA,NA
+"control",36093,"NY","Schenectady County",2,42.825,-74.055,NA,NA,NA
+"control",36095,"NY","Schoharie County",2,42.595,-74.435,NA,NA,NA
+"control",36107,"NY","Tioga County",2,42.175,-76.305,NA,NA,NA
+"control",37003,"NC","Alexander County",2,35.925,-81.175,NA,NA,NA
+"control",37019,"NC","Brunswick County",2,34.075,-78.235,NA,NA,NA
+"control",37021,"NC","Buncombe County",2,35.615,-82.525,NA,NA,NA
+"control",37023,"NC","Burke County",2,35.755,-81.705,NA,NA,NA
+"control",37027,"NC","Caldwell County",2,35.955,-81.545,NA,NA,NA
+"control",37035,"NC","Catawba County",2,35.665,-81.215,NA,NA,NA
+"control",37037,"NC","Chatham County",2,35.705,-79.255,NA,NA,NA
+"control",37057,"NC","Davidson County",2,35.795,-80.215,NA,NA,NA
+"control",37059,"NC","Davie County",2,35.935,-80.545,NA,NA,NA
+"control",37081,"NC","Guilford County",2,36.085,-79.795,NA,NA,NA
+"control",37087,"NC","Haywood County",2,35.555,-82.985,NA,NA,NA
+"control",37089,"NC","Henderson County",2,35.335,-82.475,NA,NA,NA
+"control",37093,"NC","Hoke County",2,35.015,-79.235,NA,NA,NA
+"control",37115,"NC","Madison County",2,35.865,-82.705,NA,NA,NA
+"control",37129,"NC","New Hanover County",2,34.225,-77.885,NA,NA,NA
+"control",37135,"NC","Orange County",2,36.065,-79.115,NA,NA,NA
+"control",37141,"NC","Pender County",2,34.525,-77.905,NA,NA,NA
+"control",37145,"NC","Person County",2,36.395,-78.965,NA,NA,NA
+"control",37151,"NC","Randolph County",2,35.715,-79.805,NA,NA,NA
+"control",37157,"NC","Rockingham County",2,36.395,-79.775,NA,NA,NA
+"control",37169,"NC","Stokes County",2,36.405,-80.235,NA,NA,NA
+"control",37197,"NC","Yadkin County",2,36.155,-80.665,NA,NA,NA
+"control",39019,"OH","Carroll County",2,40.585,-81.085,NA,NA,NA
+"control",39051,"OH","Fulton County",2,41.605,-84.125,NA,NA,NA
+"control",39057,"OH","Greene County",2,39.695,-83.885,NA,NA,NA
+"control",39087,"OH","Lawrence County",2,38.605,-82.535,NA,NA,NA
+"control",39095,"OH","Lucas County",2,41.625,-83.655,NA,NA,NA
+"control",39099,"OH","Mahoning County",2,41.015,-80.775,NA,NA,NA
+"control",39109,"OH","Miami County",2,40.055,-84.225,NA,NA,NA
+"control",39133,"OH","Portage County",2,41.175,-81.195,NA,NA,NA
+"control",39155,"OH","Trumbull County",2,41.315,-80.765,NA,NA,NA
+"control",40037,"OK","Creek County",2,35.905,-96.365,NA,NA,NA
+"control",40079,"OK","Le Flore County",2,34.905,-94.705,NA,NA,NA
+"control",40111,"OK","Okmulgee County",2,35.645,-95.965,NA,NA,NA
+"control",40113,"OK","Osage County",2,36.635,-96.395,NA,NA,NA
+"control",40117,"OK","Pawnee County",2,36.315,-96.695,NA,NA,NA
+"control",40131,"OK","Rogers County",2,36.365,-95.605,NA,NA,NA
+"control",40135,"OK","Sequoyah County",2,35.495,-94.755,NA,NA,NA
+"control",40145,"OK","Wagoner County",2,35.965,-95.515,NA,NA,NA
+"control",41039,"OR","Lane County",2,43.945,-122.845,NA,NA,NA
+"control",41053,"OR","Polk County",2,44.905,-123.415,NA,NA,NA
+"control",42025,"PA","Carbon County",2,40.925,-75.705,NA,NA,NA
+"control",42043,"PA","Dauphin County",2,40.415,-76.775,NA,NA,NA
+"control",42049,"PA","Erie County",2,41.995,-80.035,NA,NA,NA
+"control",42071,"PA","Lancaster County",2,40.045,-76.245,NA,NA,NA
+"control",42085,"PA","Mercer County",2,41.305,-80.265,NA,NA,NA
+"control",42099,"PA","Perry County",2,40.405,-77.265,NA,NA,NA
+"control",42131,"PA","Wyoming County",2,41.525,-76.015,NA,NA,NA
+"control",45003,"SC","Aiken County",2,33.545,-81.635,NA,NA,NA
+"control",45007,"SC","Anderson County",2,34.525,-82.635,NA,NA,NA
+"control",45015,"SC","Berkeley County",2,33.205,-79.945,NA,NA,NA
+"control",45017,"SC","Calhoun County",2,33.675,-80.775,NA,NA,NA
+"control",45019,"SC","Charleston County",2,32.835,-79.945,NA,NA,NA
+"control",45035,"SC","Dorchester County",2,33.085,-80.405,NA,NA,NA
+"control",45037,"SC","Edgefield County",2,33.775,-81.965,NA,NA,NA
+"control",45039,"SC","Fairfield County",2,34.395,-81.115,NA,NA,NA
+"control",45045,"SC","Greenville County",2,34.895,-82.365,NA,NA,NA
+"control",45051,"SC","Horry County",2,33.925,-78.995,NA,NA,NA
+"control",45055,"SC","Kershaw County",2,34.345,-80.585,NA,NA,NA
+"control",45059,"SC","Laurens County",2,34.485,-82.005,NA,NA,NA
+"control",45077,"SC","Pickens County",2,34.895,-82.725,NA,NA,NA
+"control",45079,"SC","Richland County",2,34.025,-80.905,NA,NA,NA
+"control",45081,"SC","Saluda County",2,34.005,-81.725,NA,NA,NA
+"control",45087,"SC","Union County",2,34.695,-81.615,NA,NA,NA
+"control",47001,"TN","Anderson County",2,36.115,-84.195,NA,NA,NA
+"control",47013,"TN","Campbell County",2,36.405,-84.145,NA,NA,NA
+"control",47057,"TN","Grainger County",2,36.275,-83.505,NA,NA,NA
+"control",47073,"TN","Hawkins County",2,36.445,-82.945,NA,NA,NA
+"control",47093,"TN","Knox County",2,35.995,-83.935,NA,NA,NA
+"control",47105,"TN","Loudon County",2,35.735,-84.305,NA,NA,NA
+"control",47115,"TN","Marion County",2,35.135,-85.615,NA,NA,NA
+"control",47129,"TN","Morgan County",2,36.135,-84.645,NA,NA,NA
+"control",47145,"TN","Roane County",2,35.855,-84.525,NA,NA,NA
+"control",47153,"TN","Sequatchie County",2,35.365,-85.405,NA,NA,NA
+"control",47163,"TN","Sullivan County",2,36.515,-82.305,NA,NA,NA
+"control",47173,"TN","Union County",2,36.295,-83.835,NA,NA,NA
+"control",48007,"TX","Aransas County",2,28.125,-96.995,NA,NA,NA
+"control",48011,"TX","Armstrong County",2,34.965,-101.355,NA,NA,NA
+"control",48027,"TX","Bell County",2,31.045,-97.475,NA,NA,NA
+"control",48061,"TX","Cameron County",2,26.135,-97.515,NA,NA,NA
+"control",48065,"TX","Carson County",2,35.405,-101.355,NA,NA,NA
+"control",48099,"TX","Coryell County",2,31.395,-97.795,NA,NA,NA
+"control",48107,"TX","Crosby County",2,33.615,-101.295,NA,NA,NA
+"control",48145,"TX","Falls County",2,31.255,-96.935,NA,NA,NA
+"control",48199,"TX","Hardin County",2,30.335,-94.385,NA,NA,NA
+"control",48215,"TX","Hidalgo County",2,26.395,-98.175,NA,NA,NA
+"control",48229,"TX","Hudspeth County",2,31.455,-105.385,NA,NA,NA
+"control",48245,"TX","Jefferson County",2,29.885,-94.165,NA,NA,NA
+"control",48281,"TX","Lampasas County",2,31.195,-98.235,NA,NA,NA
+"control",48303,"TX","Lubbock County",2,33.615,-101.815,NA,NA,NA
+"control",48305,"TX","Lynn County",2,33.175,-101.815,NA,NA,NA
+"control",48351,"TX","Newton County",2,30.785,-93.745,NA,NA,NA
+"control",48355,"TX","Nueces County",2,27.725,-97.605,NA,NA,NA
+"control",48359,"TX","Oldham County",2,35.405,-102.605,NA,NA,NA
+"control",48361,"TX","Orange County",2,30.125,-93.895,NA,NA,NA
+"control",48375,"TX","Potter County",2,35.405,-101.895,NA,NA,NA
+"control",48409,"TX","San Patricio County",2,28.015,-97.515,NA,NA,NA
+"control",48479,"TX","Webb County",2,27.765,-99.325,NA,NA,NA
+"control",49003,"UT","Box Elder County",2,41.525,-113.075,NA,NA,NA
+"control",49011,"UT","Davis County",2,40.995,-112.105,NA,NA,NA
+"control",49023,"UT","Juab County",2,39.705,-112.785,NA,NA,NA
+"control",49029,"UT","Morgan County",2,41.095,-111.575,NA,NA,NA
+"control",49049,"UT","Utah County",2,40.115,-111.665,NA,NA,NA
+"control",49057,"UT","Weber County",2,41.275,-111.915,NA,NA,NA
+"control",51009,"VA","Amherst County",2,37.605,-79.145,NA,NA,NA
+"control",51011,"VA","Appomattox County",2,37.365,-78.805,NA,NA,NA
+"control",51019,"VA","Bedford County",2,37.315,-79.525,NA,NA,NA
+"control",51023,"VA","Botetourt County",2,37.555,-79.805,NA,NA,NA
+"control",51031,"VA","Campbell County",2,37.205,-79.095,NA,NA,NA
+"control",51045,"VA","Craig County",2,37.475,-80.205,NA,NA,NA
+"control",51067,"VA","Franklin County",2,36.995,-79.875,NA,NA,NA
+"control",51161,"VA","Roanoke County",2,37.275,-80.065,NA,NA,NA
+"control",51169,"VA","Scott County",2,36.715,-82.605,NA,NA,NA
+"control",51191,"VA","Washington County",2,36.725,-81.955,NA,NA,NA
+"control",51515,"VA","Bedford city",2,NA,NA,NA,NA,NA
+"control",51520,"VA","Bristol city",2,36.615,-82.155,NA,NA,NA
+"control",51680,"VA","Lynchburg city",2,37.405,-79.185,NA,NA,NA
+"control",51770,"VA","Roanoke city",2,37.285,-79.955,NA,NA,NA
+"control",51775,"VA","Salem city",2,37.285,-80.055,NA,NA,NA
+"control",53005,"WA","Benton County",2,46.245,-119.505,NA,NA,NA
+"control",53035,"WA","Kitsap County",2,47.615,-122.675,NA,NA,NA
+"control",53051,"WA","Pend Oreille County",2,48.535,-117.275,NA,NA,NA
+"control",53065,"WA","Stevens County",2,48.405,-117.855,NA,NA,NA
+"control",53067,"WA","Thurston County",2,46.925,-122.835,NA,NA,NA
+"control",54003,"WV","Berkeley County",2,39.465,-78.025,NA,NA,NA
+"control",54011,"WV","Cabell County",2,38.425,-82.235,NA,NA,NA
+"control",54043,"WV","Lincoln County",2,38.175,-82.065,NA,NA,NA
+"control",54079,"WV","Putnam County",2,38.515,-81.905,NA,NA,NA
+"control",54099,"WV","Wayne County",2,38.145,-82.425,NA,NA,NA
+"control",55021,"WI","Columbia County",2,43.465,-89.335,NA,NA,NA
+"control",55031,"WI","Douglas County",2,46.435,-91.915,NA,NA,NA
+"control",55045,"WI","Green County",2,42.685,-89.595,NA,NA,NA
+"control",55049,"WI","Iowa County",2,43.005,-90.135,NA,NA,NA
+"control",55061,"WI","Kewaunee County",2,44.515,-87.615,NA,NA,NA
+"control",55083,"WI","Oconto County",2,45.025,-88.265,NA,NA,NA
+"control",72003,"PR","Aguada Municipio",2,18.365,-67.175,NA,NA,NA
+"control",72005,"PR","Aguadilla Municipio",2,18.465,-67.115,NA,NA,NA
+"control",72011,"PR","Anasco Municipio",2,18.295,-67.115,NA,NA,NA
+"control",72055,"PR","Guanica Municipio",2,17.985,-66.915,NA,NA,NA
+"control",72059,"PR","Guayanilla Municipio",2,18.045,-66.795,NA,NA,NA
+"control",72071,"PR","Isabela Municipio",2,18.455,-67.005,NA,NA,NA
+"control",72075,"PR","Juana Diaz Municipio",2,18.055,-66.495,NA,NA,NA
+"control",72081,"PR","Lares Municipio",2,18.275,-66.865,NA,NA,NA
+"control",72099,"PR","Moca Municipio",2,18.385,-67.075,NA,NA,NA
+"control",72111,"PR","Penuelas Municipio",2,18.055,-66.715,NA,NA,NA
+"control",72113,"PR","Ponce Municipio",2,18.055,-66.615,NA,NA,NA
+"control",72117,"PR","Rincon Municipio",2,18.335,-67.225,NA,NA,NA
+"control",72131,"PR","San Sebastian Municipio",2,18.325,-66.965,NA,NA,NA
+"control",72141,"PR","Utuado Municipio",2,18.275,-66.705,NA,NA,NA
+"control",72149,"PR","Villalba Municipio",2,18.135,-66.465,NA,NA,NA
+"control",72153,"PR","Yauco Municipio",2,18.075,-66.855,NA,NA,NA
+"treatment",47011,"TN","Bradley County",3,35.155,-84.855,"Charleston, Tennessee, United States of America",35.225,-84.715
+"control",1003,"AL","Baldwin County",3,30.735,-87.725,NA,NA,NA
+"control",1015,"AL","Calhoun County",3,33.775,-85.825,NA,NA,NA
+"control",1033,"AL","Colbert County",3,34.705,-87.805,NA,NA,NA
+"control",1055,"AL","Etowah County",3,34.045,-86.035,NA,NA,NA
+"control",1061,"AL","Geneva County",3,31.095,-85.835,NA,NA,NA
+"control",1065,"AL","Hale County",3,32.765,-87.625,NA,NA,NA
+"control",1067,"AL","Henry County",3,31.515,-85.235,NA,NA,NA
+"control",1069,"AL","Houston County",3,31.155,-85.305,NA,NA,NA
+"control",1077,"AL","Lauderdale County",3,34.905,-87.655,NA,NA,NA
+"control",1079,"AL","Lawrence County",3,34.525,-87.305,NA,NA,NA
+"control",1081,"AL","Lee County",3,32.605,-85.355,NA,NA,NA
+"control",1103,"AL","Morgan County",3,34.455,-86.855,NA,NA,NA
+"control",1107,"AL","Pickens County",3,33.285,-88.085,NA,NA,NA
+"control",1125,"AL","Tuscaloosa County",3,33.295,-87.525,NA,NA,NA
+"control",2090,"AK","Fairbanks North Star Borough",3,64.815,-146.555,NA,NA,NA
+"control",4003,"AZ","Cochise County",3,31.885,-109.745,NA,NA,NA
+"control",4005,"AZ","Coconino County",3,35.845,-111.765,NA,NA,NA
+"control",4015,"AZ","Mohave County",3,35.705,-113.755,NA,NA,NA
+"control",4025,"AZ","Yavapai County",3,34.605,-112.555,NA,NA,NA
+"control",4027,"AZ","Yuma County",3,32.775,-113.905,NA,NA,NA
+"control",5025,"AR","Cleveland County",3,33.905,-92.185,NA,NA,NA
+"control",5031,"AR","Craighead County",3,35.835,-90.635,NA,NA,NA
+"control",5051,"AR","Garland County",3,34.575,-93.145,NA,NA,NA
+"control",5069,"AR","Jefferson County",3,34.275,-91.925,NA,NA,NA
+"control",5079,"AR","Lincoln County",3,33.965,-91.735,NA,NA,NA
+"control",5081,"AR","Little River County",3,33.705,-94.235,NA,NA,NA
+"control",5091,"AR","Miller County",3,33.315,-93.885,NA,NA,NA
+"control",5111,"AR","Poinsett County",3,35.575,-90.665,NA,NA,NA
+"control",6007,"CA","Butte County",3,39.665,-121.595,NA,NA,NA
+"control",6025,"CA","Imperial County",3,33.045,-115.365,NA,NA,NA
+"control",6031,"CA","Kings County",3,36.075,-119.815,NA,NA,NA
+"control",6039,"CA","Madera County",3,37.225,-119.755,NA,NA,NA
+"control",6055,"CA","Napa County",3,38.505,-122.325,NA,NA,NA
+"control",6089,"CA","Shasta County",3,40.765,-122.035,NA,NA,NA
+"control",6101,"CA","Sutter County",3,39.035,-121.695,NA,NA,NA
+"control",6115,"CA","Yuba County",3,39.275,-121.345,NA,NA,NA
+"control",8077,"CO","Mesa County",3,39.025,-108.465,NA,NA,NA
+"control",8101,"CO","Pueblo County",3,38.175,-104.505,NA,NA,NA
+"control",10001,"DE","Kent County",3,39.085,-75.565,NA,NA,NA
+"control",12005,"FL","Bay County",3,30.265,-85.615,NA,NA,NA
+"control",12015,"FL","Charlotte County",3,26.905,-81.905,NA,NA,NA
+"control",12017,"FL","Citrus County",3,28.855,-82.475,NA,NA,NA
+"control",12045,"FL","Gulf County",3,29.955,-85.225,NA,NA,NA
+"control",12055,"FL","Highlands County",3,27.345,-81.335,NA,NA,NA
+"control",12061,"FL","Indian River County",3,27.695,-80.605,NA,NA,NA
+"control",12091,"FL","Okaloosa County",3,30.695,-86.585,NA,NA,NA
+"control",12119,"FL","Sumter County",3,28.705,-82.075,NA,NA,NA
+"control",12131,"FL","Walton County",3,30.645,-86.165,NA,NA,NA
+"control",13007,"GA","Baker County",3,31.325,-84.445,NA,NA,NA
+"control",13025,"GA","Brantley County",3,31.195,-81.975,NA,NA,NA
+"control",13027,"GA","Brooks County",3,30.845,-83.575,NA,NA,NA
+"control",13059,"GA","Clarke County",3,33.955,-83.365,NA,NA,NA
+"control",13079,"GA","Crawford County",3,32.715,-83.985,NA,NA,NA
+"control",13095,"GA","Dougherty County",3,31.535,-84.215,NA,NA,NA
+"control",13101,"GA","Echols County",3,30.715,-82.895,NA,NA,NA
+"control",13115,"GA","Floyd County",3,34.265,-85.215,NA,NA,NA
+"control",13127,"GA","Glynn County",3,31.235,-81.545,NA,NA,NA
+"control",13139,"GA","Hall County",3,34.315,-83.815,NA,NA,NA
+"control",13153,"GA","Houston County",3,32.465,-83.665,NA,NA,NA
+"control",13169,"GA","Jones County",3,33.025,-83.555,NA,NA,NA
+"control",13173,"GA","Lanier County",3,31.045,-83.065,NA,NA,NA
+"control",13177,"GA","Lee County",3,31.785,-84.135,NA,NA,NA
+"control",13179,"GA","Liberty County",3,31.835,-81.495,NA,NA,NA
+"control",13183,"GA","Long County",3,31.755,-81.745,NA,NA,NA
+"control",13185,"GA","Lowndes County",3,30.835,-83.265,NA,NA,NA
+"control",13191,"GA","McIntosh County",3,31.495,-81.405,NA,NA,NA
+"control",13195,"GA","Madison County",3,34.135,-83.205,NA,NA,NA
+"control",13207,"GA","Monroe County",3,33.015,-83.915,NA,NA,NA
+"control",13213,"GA","Murray County",3,34.795,-84.745,NA,NA,NA
+"control",13219,"GA","Oconee County",3,33.835,-83.435,NA,NA,NA
+"control",13221,"GA","Oglethorpe County",3,33.885,-83.075,NA,NA,NA
+"control",13225,"GA","Peach County",3,32.575,-83.825,NA,NA,NA
+"control",13235,"GA","Pulaski County",3,32.225,-83.475,NA,NA,NA
+"control",13273,"GA","Terrell County",3,31.775,-84.435,NA,NA,NA
+"control",13289,"GA","Twiggs County",3,32.665,-83.425,NA,NA,NA
+"control",13313,"GA","Whitfield County",3,34.805,-84.965,NA,NA,NA
+"control",13321,"GA","Worth County",3,31.555,-83.845,NA,NA,NA
+"control",15005,"HI","Kalawao County",3,21.175,-156.945,NA,NA,NA
+"control",15009,"HI","Maui County",3,20.865,-156.565,NA,NA,NA
+"control",16005,"ID","Bannock County",3,42.675,-112.225,NA,NA,NA
+"control",16019,"ID","Bonneville County",3,43.395,-111.615,NA,NA,NA
+"control",16023,"ID","Butte County",3,43.725,-113.165,NA,NA,NA
+"control",16041,"ID","Franklin County",3,42.185,-111.815,NA,NA,NA
+"control",16051,"ID","Jefferson County",3,43.825,-112.305,NA,NA,NA
+"control",16055,"ID","Kootenai County",3,47.675,-116.695,NA,NA,NA
+"control",16069,"ID","Nez Perce County",3,46.325,-116.745,NA,NA,NA
+"control",17003,"IL","Alexander County",3,37.195,-89.335,NA,NA,NA
+"control",17019,"IL","Champaign County",3,40.145,-88.195,NA,NA,NA
+"control",17039,"IL","De Witt County",3,40.175,-88.905,NA,NA,NA
+"control",17053,"IL","Ford County",3,40.595,-88.225,NA,NA,NA
+"control",17077,"IL","Jackson County",3,37.785,-89.375,NA,NA,NA
+"control",17091,"IL","Kankakee County",3,41.135,-87.855,NA,NA,NA
+"control",17113,"IL","McLean County",3,40.495,-88.845,NA,NA,NA
+"control",17115,"IL","Macon County",3,39.865,-88.955,NA,NA,NA
+"control",17129,"IL","Menard County",3,40.025,-89.795,NA,NA,NA
+"control",17147,"IL","Piatt County",3,40.015,-88.585,NA,NA,NA
+"control",17167,"IL","Sangamon County",3,39.765,-89.655,NA,NA,NA
+"control",17183,"IL","Vermilion County",3,40.185,-87.735,NA,NA,NA
+"control",17199,"IL","Williamson County",3,37.725,-88.925,NA,NA,NA
+"control",18005,"IN","Bartholomew County",3,39.205,-85.895,NA,NA,NA
+"control",18007,"IN","Benton County",3,40.605,-87.305,NA,NA,NA
+"control",18015,"IN","Carroll County",3,40.585,-86.565,NA,NA,NA
+"control",18021,"IN","Clay County",3,39.395,-87.115,NA,NA,NA
+"control",18035,"IN","Delaware County",3,40.225,-85.395,NA,NA,NA
+"control",18067,"IN","Howard County",3,40.485,-86.115,NA,NA,NA
+"control",18091,"IN","LaPorte County",3,41.545,-86.735,NA,NA,NA
+"control",18105,"IN","Monroe County",3,39.155,-86.525,NA,NA,NA
+"control",18119,"IN","Owen County",3,39.315,-86.835,NA,NA,NA
+"control",18153,"IN","Sullivan County",3,39.095,-87.415,NA,NA,NA
+"control",18157,"IN","Tippecanoe County",3,40.395,-86.895,NA,NA,NA
+"control",18165,"IN","Vermillion County",3,39.855,-87.465,NA,NA,NA
+"control",18167,"IN","Vigo County",3,39.435,-87.385,NA,NA,NA
+"control",19013,"IA","Black Hawk County",3,42.475,-92.305,NA,NA,NA
+"control",19017,"IA","Bremer County",3,42.775,-92.315,NA,NA,NA
+"control",19061,"IA","Dubuque County",3,42.475,-90.885,NA,NA,NA
+"control",19075,"IA","Grundy County",3,42.405,-92.785,NA,NA,NA
+"control",19103,"IA","Johnson County",3,41.675,-91.585,NA,NA,NA
+"control",19149,"IA","Plymouth County",3,42.735,-96.215,NA,NA,NA
+"control",19169,"IA","Story County",3,42.035,-93.465,NA,NA,NA
+"control",19183,"IA","Washington County",3,41.335,-91.715,NA,NA,NA
+"control",19193,"IA","Woodbury County",3,42.395,-96.045,NA,NA,NA
+"control",20043,"KS","Doniphan County",3,39.795,-95.145,NA,NA,NA
+"control",20045,"KS","Douglas County",3,38.885,-95.295,NA,NA,NA
+"control",20085,"KS","Jackson County",3,39.415,-95.795,NA,NA,NA
+"control",20087,"KS","Jefferson County",3,39.235,-95.385,NA,NA,NA
+"control",20139,"KS","Osage County",3,38.655,-95.725,NA,NA,NA
+"control",20149,"KS","Pottawatomie County",3,39.385,-96.345,NA,NA,NA
+"control",20161,"KS","Riley County",3,39.295,-96.735,NA,NA,NA
+"control",20177,"KS","Shawnee County",3,39.045,-95.755,NA,NA,NA
+"control",20197,"KS","Wabaunsee County",3,38.955,-96.205,NA,NA,NA
+"control",21003,"KY","Allen County",3,36.755,-86.185,NA,NA,NA
+"control",21031,"KY","Butler County",3,37.205,-86.675,NA,NA,NA
+"control",21059,"KY","Daviess County",3,37.725,-87.085,NA,NA,NA
+"control",21061,"KY","Edmonson County",3,37.215,-86.235,NA,NA,NA
+"control",21091,"KY","Hancock County",3,37.845,-86.775,NA,NA,NA
+"control",21093,"KY","Hardin County",3,37.705,-85.965,NA,NA,NA
+"control",21123,"KY","Larue County",3,37.545,-85.695,NA,NA,NA
+"control",21149,"KY","McLean County",3,37.535,-87.265,NA,NA,NA
+"control",21163,"KY","Meade County",3,37.975,-86.215,NA,NA,NA
+"control",21227,"KY","Warren County",3,36.995,-86.425,NA,NA,NA
+"control",22019,"LA","Calcasieu Parish",3,30.235,-93.355,NA,NA,NA
+"control",22023,"LA","Cameron Parish",3,29.875,-93.195,NA,NA,NA
+"control",22043,"LA","Grant Parish",3,31.605,-92.555,NA,NA,NA
+"control",22057,"LA","Lafourche Parish",3,29.565,-90.415,NA,NA,NA
+"control",22073,"LA","Ouachita Parish",3,32.475,-92.155,NA,NA,NA
+"control",22079,"LA","Rapides Parish",3,31.205,-92.535,NA,NA,NA
+"control",22105,"LA","Tangipahoa Parish",3,30.625,-90.405,NA,NA,NA
+"control",22109,"LA","Terrebonne Parish",3,29.415,-90.865,NA,NA,NA
+"control",22111,"LA","Union Parish",3,32.835,-92.375,NA,NA,NA
+"control",23001,"ME","Androscoggin County",3,44.165,-70.205,NA,NA,NA
+"control",23019,"ME","Penobscot County",3,45.405,-68.655,NA,NA,NA
+"control",24001,"MD","Allegany County",3,39.615,-78.695,NA,NA,NA
+"control",24037,"MD","St. Mary's County",3,38.295,-76.605,NA,NA,NA
+"control",25001,"MA","Barnstable County",3,41.725,-70.295,NA,NA,NA
+"control",25003,"MA","Berkshire County",3,42.375,-73.205,NA,NA,NA
+"control",26017,"MI","Bay County",3,43.705,-83.985,NA,NA,NA
+"control",26021,"MI","Berrien County",3,41.955,-86.415,NA,NA,NA
+"control",26025,"MI","Calhoun County",3,42.245,-85.005,NA,NA,NA
+"control",26075,"MI","Jackson County",3,42.255,-84.425,NA,NA,NA
+"control",26111,"MI","Midland County",3,43.645,-84.385,NA,NA,NA
+"control",26115,"MI","Monroe County",3,41.935,-83.535,NA,NA,NA
+"control",26121,"MI","Muskegon County",3,43.295,-86.145,NA,NA,NA
+"control",26145,"MI","Saginaw County",3,43.335,-84.055,NA,NA,NA
+"control",27009,"MN","Benton County",3,45.705,-93.995,NA,NA,NA
+"control",27013,"MN","Blue Earth County",3,44.035,-94.065,NA,NA,NA
+"control",27027,"MN","Clay County",3,46.895,-96.485,NA,NA,NA
+"control",27039,"MN","Dodge County",3,44.025,-92.855,NA,NA,NA
+"control",27045,"MN","Fillmore County",3,43.675,-92.085,NA,NA,NA
+"control",27055,"MN","Houston County",3,43.675,-91.495,NA,NA,NA
+"control",27103,"MN","Nicollet County",3,44.355,-94.245,NA,NA,NA
+"control",27109,"MN","Olmsted County",3,44.005,-92.395,NA,NA,NA
+"control",27119,"MN","Polk County",3,47.775,-96.395,NA,NA,NA
+"control",27145,"MN","Stearns County",3,45.555,-94.615,NA,NA,NA
+"control",27157,"MN","Wabasha County",3,44.285,-92.225,NA,NA,NA
+"control",28035,"MS","Forrest County",3,31.195,-89.255,NA,NA,NA
+"control",28073,"MS","Lamar County",3,31.205,-89.505,NA,NA,NA
+"control",28111,"MS","Perry County",3,31.175,-88.995,NA,NA,NA
+"control",29003,"MO","Andrew County",3,39.985,-94.795,NA,NA,NA
+"control",29017,"MO","Bollinger County",3,37.325,-90.025,NA,NA,NA
+"control",29019,"MO","Boone County",3,38.995,-92.305,NA,NA,NA
+"control",29021,"MO","Buchanan County",3,39.655,-94.805,NA,NA,NA
+"control",29027,"MO","Callaway County",3,38.835,-91.925,NA,NA,NA
+"control",29031,"MO","Cape Girardeau County",3,37.385,-89.685,NA,NA,NA
+"control",29051,"MO","Cole County",3,38.505,-92.275,NA,NA,NA
+"control",29063,"MO","DeKalb County",3,39.895,-94.405,NA,NA,NA
+"control",29097,"MO","Jasper County",3,37.205,-94.335,NA,NA,NA
+"control",29135,"MO","Moniteau County",3,38.635,-92.585,NA,NA,NA
+"control",29145,"MO","Newton County",3,36.905,-94.335,NA,NA,NA
+"control",29151,"MO","Osage County",3,38.465,-91.855,NA,NA,NA
+"control",30009,"MT","Carbon County",3,45.225,-109.025,NA,NA,NA
+"control",30013,"MT","Cascade County",3,47.315,-111.345,NA,NA,NA
+"control",30037,"MT","Golden Valley County",3,46.385,-109.175,NA,NA,NA
+"control",30063,"MT","Missoula County",3,47.035,-113.925,NA,NA,NA
+"control",30111,"MT","Yellowstone County",3,45.935,-108.275,NA,NA,NA
+"control",31043,"NE","Dakota County",3,42.395,-96.565,NA,NA,NA
+"control",31051,"NE","Dixon County",3,42.495,-96.865,NA,NA,NA
+"control",31079,"NE","Hall County",3,40.875,-98.495,NA,NA,NA
+"control",31081,"NE","Hamilton County",3,40.875,-98.025,NA,NA,NA
+"control",31093,"NE","Howard County",3,41.225,-98.515,NA,NA,NA
+"control",31121,"NE","Merrick County",3,41.175,-98.035,NA,NA,NA
+"control",32510,"NV","Carson City",3,39.155,-119.745,NA,NA,NA
+"control",34009,"NJ","Cape May County",3,39.155,-74.795,NA,NA,NA
+"control",34011,"NJ","Cumberland County",3,39.375,-75.105,NA,NA,NA
+"control",35013,"NM","Dona Ana County",3,32.355,-106.835,NA,NA,NA
+"control",35045,"NM","San Juan County",3,36.515,-108.315,NA,NA,NA
+"control",35049,"NM","Santa Fe County",3,35.505,-105.975,NA,NA,NA
+"control",36015,"NY","Chemung County",3,42.145,-76.765,NA,NA,NA
+"control",36045,"NY","Jefferson County",3,44.055,-75.935,NA,NA,NA
+"control",36109,"NY","Tompkins County",3,42.455,-76.475,NA,NA,NA
+"control",36111,"NY","Ulster County",3,41.895,-74.265,NA,NA,NA
+"control",36113,"NY","Warren County",3,43.565,-73.845,NA,NA,NA
+"control",36115,"NY","Washington County",3,43.315,-73.435,NA,NA,NA
+"control",37001,"NC","Alamance County",3,36.045,-79.405,NA,NA,NA
+"control",37049,"NC","Craven County",3,35.125,-77.095,NA,NA,NA
+"control",37065,"NC","Edgecombe County",3,35.915,-77.595,NA,NA,NA
+"control",37103,"NC","Jones County",3,35.025,-77.355,NA,NA,NA
+"control",37127,"NC","Nash County",3,35.975,-77.985,NA,NA,NA
+"control",37133,"NC","Onslow County",3,34.725,-77.425,NA,NA,NA
+"control",37137,"NC","Pamlico County",3,35.145,-76.725,NA,NA,NA
+"control",37147,"NC","Pitt County",3,35.595,-77.375,NA,NA,NA
+"control",37191,"NC","Wayne County",3,35.365,-78.005,NA,NA,NA
+"control",38015,"ND","Burleigh County",3,46.975,-100.465,NA,NA,NA
+"control",38035,"ND","Grand Forks County",3,47.925,-97.455,NA,NA,NA
+"control",38059,"ND","Morton County",3,46.715,-101.275,NA,NA,NA
+"control",38065,"ND","Oliver County",3,47.115,-101.335,NA,NA,NA
+"control",38085,"ND","Sioux County",3,46.115,-101.035,NA,NA,NA
+"control",39003,"OH","Allen County",3,40.775,-84.105,NA,NA,NA
+"control",39013,"OH","Belmont County",3,40.015,-80.985,NA,NA,NA
+"control",39023,"OH","Clark County",3,39.915,-83.785,NA,NA,NA
+"control",39081,"OH","Jefferson County",3,40.385,-80.765,NA,NA,NA
+"control",39139,"OH","Richland County",3,40.775,-82.535,NA,NA,NA
+"control",40031,"OK","Comanche County",3,34.655,-98.465,NA,NA,NA
+"control",40033,"OK","Cotton County",3,34.295,-98.365,NA,NA,NA
+"control",41003,"OR","Benton County",3,44.495,-123.425,NA,NA,NA
+"control",41017,"OR","Deschutes County",3,43.915,-121.225,NA,NA,NA
+"control",41029,"OR","Jackson County",3,42.435,-122.725,NA,NA,NA
+"control",41033,"OR","Josephine County",3,42.365,-123.555,NA,NA,NA
+"control",41043,"OR","Linn County",3,44.495,-122.535,NA,NA,NA
+"control",42001,"PA","Adams County",3,39.865,-77.215,NA,NA,NA
+"control",42013,"PA","Blair County",3,40.475,-78.345,NA,NA,NA
+"control",42021,"PA","Cambria County",3,40.495,-78.715,NA,NA,NA
+"control",42027,"PA","Centre County",3,40.925,-77.815,NA,NA,NA
+"control",42037,"PA","Columbia County",3,41.055,-76.405,NA,NA,NA
+"control",42055,"PA","Franklin County",3,39.925,-77.715,NA,NA,NA
+"control",42075,"PA","Lebanon County",3,40.365,-76.455,NA,NA,NA
+"control",42081,"PA","Lycoming County",3,41.345,-77.065,NA,NA,NA
+"control",42089,"PA","Monroe County",3,41.065,-75.335,NA,NA,NA
+"control",42093,"PA","Montour County",3,41.035,-76.655,NA,NA,NA
+"control",45013,"SC","Beaufort County",3,32.385,-80.725,NA,NA,NA
+"control",45031,"SC","Darlington County",3,34.335,-79.955,NA,NA,NA
+"control",45041,"SC","Florence County",3,34.025,-79.695,NA,NA,NA
+"control",45053,"SC","Jasper County",3,32.435,-81.025,NA,NA,NA
+"control",45085,"SC","Sumter County",3,33.915,-80.375,NA,NA,NA
+"control",46033,"SD","Custer County",3,43.675,-103.445,NA,NA,NA
+"control",46083,"SD","Lincoln County",3,43.285,-96.715,NA,NA,NA
+"control",46087,"SD","McCook County",3,43.675,-97.365,NA,NA,NA
+"control",46093,"SD","Meade County",3,44.565,-102.715,NA,NA,NA
+"control",46103,"SD","Pennington County",3,44.005,-102.825,NA,NA,NA
+"control",46125,"SD","Turner County",3,43.315,-97.145,NA,NA,NA
+"control",46127,"SD","Union County",3,42.835,-96.655,NA,NA,NA
+"control",47019,"TN","Carter County",3,36.295,-82.125,NA,NA,NA
+"control",47023,"TN","Chester County",3,35.425,-88.615,NA,NA,NA
+"control",47033,"TN","Crockett County",3,35.815,-89.135,NA,NA,NA
+"control",47063,"TN","Hamblen County",3,36.215,-83.265,NA,NA,NA
+"control",47089,"TN","Jefferson County",3,36.045,-83.445,NA,NA,NA
+"control",47113,"TN","Madison County",3,35.615,-88.835,NA,NA,NA
+"control",47139,"TN","Polk County",3,35.115,-84.525,NA,NA,NA
+"control",47171,"TN","Unicoi County",3,36.115,-82.425,NA,NA,NA
+"control",47179,"TN","Washington County",3,36.295,-82.495,NA,NA,NA
+"control",48009,"TX","Archer County",3,33.615,-98.685,NA,NA,NA
+"control",48037,"TX","Bowie County",3,33.445,-94.425,NA,NA,NA
+"control",48041,"TX","Brazos County",3,30.665,-96.295,NA,NA,NA
+"control",48051,"TX","Burleson County",3,30.495,-96.615,NA,NA,NA
+"control",48059,"TX","Callahan County",3,32.295,-99.375,NA,NA,NA
+"control",48077,"TX","Clay County",3,33.785,-98.205,NA,NA,NA
+"control",48135,"TX","Ector County",3,31.875,-102.545,NA,NA,NA
+"control",48175,"TX","Goliad County",3,28.655,-97.425,NA,NA,NA
+"control",48181,"TX","Grayson County",3,33.625,-96.675,NA,NA,NA
+"control",48183,"TX","Gregg County",3,32.475,-94.815,NA,NA,NA
+"control",48235,"TX","Irion County",3,31.305,-100.975,NA,NA,NA
+"control",48253,"TX","Jones County",3,32.745,-99.875,NA,NA,NA
+"control",48317,"TX","Martin County",3,32.305,-101.945,NA,NA,NA
+"control",48329,"TX","Midland County",3,31.875,-102.025,NA,NA,NA
+"control",48395,"TX","Robertson County",3,31.025,-96.515,NA,NA,NA
+"control",48401,"TX","Rusk County",3,32.115,-94.755,NA,NA,NA
+"control",48423,"TX","Smith County",3,32.375,-95.265,NA,NA,NA
+"control",48441,"TX","Taylor County",3,32.295,-99.885,NA,NA,NA
+"control",48451,"TX","Tom Green County",3,31.405,-100.455,NA,NA,NA
+"control",48459,"TX","Upshur County",3,32.735,-94.935,NA,NA,NA
+"control",48469,"TX","Victoria County",3,28.795,-96.965,NA,NA,NA
+"control",48485,"TX","Wichita County",3,33.995,-98.705,NA,NA,NA
+"control",49005,"UT","Cache County",3,41.725,-111.745,NA,NA,NA
+"control",49053,"UT","Washington County",3,37.285,-113.505,NA,NA,NA
+"control",50007,"VT","Chittenden County",3,44.465,-73.075,NA,NA,NA
+"control",50011,"VT","Franklin County",3,44.855,-72.905,NA,NA,NA
+"control",50013,"VT","Grand Isle County",3,44.795,-73.295,NA,NA,NA
+"control",51003,"VA","Albemarle County",3,38.025,-78.555,NA,NA,NA
+"control",51015,"VA","Augusta County",3,38.165,-79.135,NA,NA,NA
+"control",51029,"VA","Buckingham County",3,37.575,-78.525,NA,NA,NA
+"control",51063,"VA","Floyd County",3,36.935,-80.355,NA,NA,NA
+"control",51065,"VA","Fluvanna County",3,37.845,-78.275,NA,NA,NA
+"control",51071,"VA","Giles County",3,37.315,-80.705,NA,NA,NA
+"control",51079,"VA","Greene County",3,38.295,-78.465,NA,NA,NA
+"control",51121,"VA","Montgomery County",3,37.175,-80.385,NA,NA,NA
+"control",51125,"VA","Nelson County",3,37.785,-78.885,NA,NA,NA
+"control",51155,"VA","Pulaski County",3,37.065,-80.715,NA,NA,NA
+"control",51165,"VA","Rockingham County",3,38.515,-78.875,NA,NA,NA
+"control",51540,"VA","Charlottesville city",3,38.035,-78.475,NA,NA,NA
+"control",51660,"VA","Harrisonburg city",3,38.445,-78.875,NA,NA,NA
+"control",51750,"VA","Radford city",3,37.125,-80.555,NA,NA,NA
+"control",51790,"VA","Staunton city",3,38.155,-79.055,NA,NA,NA
+"control",51820,"VA","Waynesboro city",3,38.075,-78.905,NA,NA,NA
+"control",51840,"VA","Winchester city",3,39.175,-78.175,NA,NA,NA
+"control",53003,"WA","Asotin County",3,46.195,-117.205,NA,NA,NA
+"control",53007,"WA","Chelan County",3,47.875,-120.615,NA,NA,NA
+"control",53013,"WA","Columbia County",3,46.305,-117.905,NA,NA,NA
+"control",53015,"WA","Cowlitz County",3,46.195,-122.675,NA,NA,NA
+"control",53017,"WA","Douglas County",3,47.735,-119.685,NA,NA,NA
+"control",53057,"WA","Skagit County",3,48.485,-121.725,NA,NA,NA
+"control",53071,"WA","Walla Walla County",3,46.235,-118.475,NA,NA,NA
+"control",53073,"WA","Whatcom County",3,48.825,-121.715,NA,NA,NA
+"control",53077,"WA","Yakima County",3,46.455,-120.735,NA,NA,NA
+"control",54005,"WV","Boone County",3,38.025,-81.705,NA,NA,NA
+"control",54009,"WV","Brooke County",3,40.275,-80.575,NA,NA,NA
+"control",54015,"WV","Clay County",3,38.465,-81.075,NA,NA,NA
+"control",54019,"WV","Fayette County",3,38.035,-81.075,NA,NA,NA
+"control",54027,"WV","Hampshire County",3,39.315,-78.615,NA,NA,NA
+"control",54029,"WV","Hancock County",3,40.525,-80.575,NA,NA,NA
+"control",54039,"WV","Kanawha County",3,38.335,-81.525,NA,NA,NA
+"control",54051,"WV","Marshall County",3,39.865,-80.665,NA,NA,NA
+"control",54057,"WV","Mineral County",3,39.415,-78.945,NA,NA,NA
+"control",54061,"WV","Monongalia County",3,39.635,-80.045,NA,NA,NA
+"control",54069,"WV","Ohio County",3,40.095,-80.615,NA,NA,NA
+"control",54077,"WV","Preston County",3,39.475,-79.665,NA,NA,NA
+"control",54081,"WV","Raleigh County",3,37.775,-81.245,NA,NA,NA
+"control",54105,"WV","Wirt County",3,39.025,-81.375,NA,NA,NA
+"control",54107,"WV","Wood County",3,39.215,-81.515,NA,NA,NA
+"control",55015,"WI","Calumet County",3,44.085,-88.215,NA,NA,NA
+"control",55017,"WI","Chippewa County",3,45.075,-91.275,NA,NA,NA
+"control",55035,"WI","Eau Claire County",3,44.725,-91.285,NA,NA,NA
+"control",55039,"WI","Fond du Lac County",3,43.755,-88.485,NA,NA,NA
+"control",55063,"WI","La Crosse County",3,43.905,-91.115,NA,NA,NA
+"control",55073,"WI","Marathon County",3,44.905,-89.755,NA,NA,NA
+"control",55087,"WI","Outagamie County",3,44.415,-88.465,NA,NA,NA
+"control",55101,"WI","Racine County",3,42.745,-88.055,NA,NA,NA
+"control",55117,"WI","Sheboygan County",3,43.725,-87.945,NA,NA,NA
+"control",55139,"WI","Winnebago County",3,44.075,-88.645,NA,NA,NA
+"control",56021,"WY","Laramie County",3,41.305,-104.685,NA,NA,NA
+"control",56025,"WY","Natrona County",3,42.965,-106.795,NA,NA,NA
+"control",72013,"PR","Arecibo Municipio",3,18.405,-66.675,NA,NA,NA
+"control",72015,"PR","Arroyo Municipio",3,18.005,-66.055,NA,NA,NA
+"control",72023,"PR","Cabo Rojo Municipio",3,18.045,-67.155,NA,NA,NA
+"control",72027,"PR","Camuy Municipio",3,18.425,-66.855,NA,NA,NA
+"control",72057,"PR","Guayama Municipio",3,18.005,-66.135,NA,NA,NA
+"control",72065,"PR","Hatillo Municipio",3,18.415,-66.795,NA,NA,NA
+"control",72067,"PR","Hormigueros Municipio",3,18.135,-67.115,NA,NA,NA
+"control",72079,"PR","Lajas Municipio",3,18.015,-67.045,NA,NA,NA
+"control",72097,"PR","Mayaguez Municipio",3,18.185,-67.335,NA,NA,NA
+"control",72109,"PR","Patillas Municipio",3,18.035,-66.015,NA,NA,NA
+"control",72115,"PR","Quebradillas Municipio",3,18.445,-66.925,NA,NA,NA
+"control",72121,"PR","Sabana Grande Municipio",3,18.085,-66.945,NA,NA,NA
+"control",72125,"PR","San German Municipio",3,18.115,-67.045,NA,NA,NA
+"treatment",13157,"GA","Jackson County",4,34.135,-83.565,"650 Broadway Avenue, Braselton, GA 30517, United States of America",34.105,-83.765
+"treatment",13157,"GA","Jackson County",4,34.135,-83.565,"808 Hog Mountain Road, Jefferson, GA 30549, United States of America",34.175,-83.605
+"control",1031,"AL","Coffee County",4,31.405,-85.985,NA,NA,NA
+"control",1043,"AL","Cullman County",4,34.135,-86.865,NA,NA,NA
+"control",1045,"AL","Dale County",4,31.435,-85.605,NA,NA,NA
+"control",1047,"AL","Dallas County",4,32.325,-87.105,NA,NA,NA
+"control",1095,"AL","Marshall County",4,34.365,-86.305,NA,NA,NA
+"control",1121,"AL","Talladega County",4,33.385,-86.165,NA,NA,NA
+"control",4007,"AZ","Gila County",4,33.795,-110.805,NA,NA,NA
+"control",4017,"AZ","Navajo County",4,35.405,-110.315,NA,NA,NA
+"control",4023,"AZ","Santa Cruz County",4,31.525,-110.845,NA,NA,NA
+"control",5055,"AR","Greene County",4,36.115,-90.555,NA,NA,NA
+"control",5093,"AR","Mississippi County",4,35.765,-90.055,NA,NA,NA
+"control",5145,"AR","White County",4,35.255,-91.745,NA,NA,NA
+"control",6033,"CA","Lake County",4,39.105,-122.755,NA,NA,NA
+"control",6045,"CA","Mendocino County",4,39.445,-123.385,NA,NA,NA
+"control",6057,"CA","Nevada County",4,39.295,-120.765,NA,NA,NA
+"control",6103,"CA","Tehama County",4,40.125,-122.235,NA,NA,NA
+"control",6109,"CA","Tuolumne County",4,38.025,-119.955,NA,NA,NA
+"control",8043,"CO","Fremont County",4,38.475,-105.435,NA,NA,NA
+"control",8067,"CO","La Plata County",4,37.285,-107.845,NA,NA,NA
+"control",8085,"CO","Montrose County",4,38.405,-108.265,NA,NA,NA
+"control",9005,"CT","Litchfield County",4,41.795,-73.245,NA,NA,NA
+"control",12023,"FL","Columbia County",4,30.225,-82.615,NA,NA,NA
+"control",12051,"FL","Hendry County",4,26.555,-81.165,NA,NA,NA
+"control",12087,"FL","Monroe County",4,25.275,-81.115,NA,NA,NA
+"control",12093,"FL","Okeechobee County",4,27.385,-80.885,NA,NA,NA
+"control",12107,"FL","Putnam County",4,29.615,-81.745,NA,NA,NA
+"control",13009,"GA","Baldwin County",4,33.075,-83.245,NA,NA,NA
+"control",13031,"GA","Bulloch County",4,32.395,-81.745,NA,NA,NA
+"control",13039,"GA","Camden County",4,30.935,-81.665,NA,NA,NA
+"control",13129,"GA","Gordon County",4,34.505,-84.875,NA,NA,NA
+"control",13233,"GA","Polk County",4,34.005,-85.185,NA,NA,NA
+"control",13275,"GA","Thomas County",4,30.865,-83.915,NA,NA,NA
+"control",13285,"GA","Troup County",4,33.035,-85.025,NA,NA,NA
+"control",16011,"ID","Bingham County",4,43.215,-112.395,NA,NA,NA
+"control",16057,"ID","Latah County",4,46.815,-116.705,NA,NA,NA
+"control",16065,"ID","Madison County",4,43.785,-111.655,NA,NA,NA
+"control",17055,"IL","Franklin County",4,37.995,-88.925,NA,NA,NA
+"control",17095,"IL","Knox County",4,40.935,-90.215,NA,NA,NA
+"control",17099,"IL","La Salle County",4,41.345,-88.885,NA,NA,NA
+"control",17105,"IL","Livingston County",4,40.895,-88.555,NA,NA,NA
+"control",17121,"IL","Marion County",4,38.655,-88.915,NA,NA,NA
+"control",17137,"IL","Morgan County",4,39.715,-90.195,NA,NA,NA
+"control",17141,"IL","Ogle County",4,42.045,-89.315,NA,NA,NA
+"control",17177,"IL","Stephenson County",4,42.355,-89.665,NA,NA,NA
+"control",17195,"IL","Whiteside County",4,41.755,-89.915,NA,NA,NA
+"control",18017,"IN","Cass County",4,40.765,-86.345,NA,NA,NA
+"control",18033,"IN","DeKalb County",4,41.405,-84.995,NA,NA,NA
+"control",18053,"IN","Grant County",4,40.515,-85.655,NA,NA,NA
+"control",18065,"IN","Henry County",4,39.935,-85.395,NA,NA,NA
+"control",18071,"IN","Jackson County",4,38.905,-86.035,NA,NA,NA
+"control",18085,"IN","Kosciusko County",4,41.245,-85.855,NA,NA,NA
+"control",19045,"IA","Clinton County",4,41.905,-90.525,NA,NA,NA
+"control",19127,"IA","Marshall County",4,42.035,-92.995,NA,NA,NA
+"control",19139,"IA","Muscatine County",4,41.485,-91.115,NA,NA,NA
+"control",20035,"KS","Cowley County",4,37.245,-96.835,NA,NA,NA
+"control",20037,"KS","Crawford County",4,37.505,-94.845,NA,NA,NA
+"control",20061,"KS","Geary County",4,39.005,-96.755,NA,NA,NA
+"control",20111,"KS","Lyon County",4,38.455,-96.155,NA,NA,NA
+"control",20155,"KS","Reno County",4,37.955,-98.085,NA,NA,NA
+"control",21073,"KY","Franklin County",4,38.245,-84.875,NA,NA,NA
+"control",21151,"KY","Madison County",4,37.725,-84.275,NA,NA,NA
+"control",22061,"LA","Lincoln Parish",4,32.605,-92.665,NA,NA,NA
+"control",22097,"LA","St. Landry Parish",4,30.605,-92.005,NA,NA,NA
+"control",22101,"LA","St. Mary Parish",4,29.705,-91.445,NA,NA,NA
+"control",23011,"ME","Kennebec County",4,44.415,-69.765,NA,NA,NA
+"control",25011,"MA","Franklin County",4,42.585,-72.585,NA,NA,NA
+"control",26005,"MI","Allegan County",4,42.595,-85.885,NA,NA,NA
+"control",26067,"MI","Ionia County",4,42.945,-85.075,NA,NA,NA
+"control",26073,"MI","Isabella County",4,43.645,-84.845,NA,NA,NA
+"control",26091,"MI","Lenawee County",4,41.895,-84.065,NA,NA,NA
+"control",26149,"MI","St. Joseph County",4,41.915,-85.525,NA,NA,NA
+"control",26155,"MI","Shiawassee County",4,42.955,-84.145,NA,NA,NA
+"control",27035,"MN","Crow Wing County",4,46.485,-94.065,NA,NA,NA
+"control",27049,"MN","Goodhue County",4,44.415,-92.725,NA,NA,NA
+"control",27067,"MN","Kandiyohi County",4,45.155,-95.005,NA,NA,NA
+"control",27099,"MN","Mower County",4,43.675,-92.745,NA,NA,NA
+"control",27131,"MN","Rice County",4,44.355,-93.295,NA,NA,NA
+"control",27169,"MN","Winona County",4,43.985,-91.775,NA,NA,NA
+"control",28067,"MS","Jones County",4,31.625,-89.165,NA,NA,NA
+"control",28071,"MS","Lafayette County",4,34.355,-89.485,NA,NA,NA
+"control",28149,"MS","Warren County",4,32.355,-90.845,NA,NA,NA
+"control",29101,"MO","Johnson County",4,38.745,-93.805,NA,NA,NA
+"control",29159,"MO","Pettis County",4,38.725,-93.285,NA,NA,NA
+"control",29187,"MO","St. Francois County",4,37.815,-90.475,NA,NA,NA
+"control",29201,"MO","Scott County",4,37.055,-89.565,NA,NA,NA
+"control",29213,"MO","Taney County",4,36.655,-93.035,NA,NA,NA
+"control",31001,"NE","Adams County",4,40.525,-98.495,NA,NA,NA
+"control",31019,"NE","Buffalo County",4,40.855,-99.075,NA,NA,NA
+"control",31053,"NE","Dodge County",4,41.585,-96.655,NA,NA,NA
+"control",32005,"NV","Douglas County",4,38.905,-119.615,NA,NA,NA
+"control",32019,"NV","Lyon County",4,39.025,-119.185,NA,NA,NA
+"control",32023,"NV","Nye County",4,38.045,-116.465,NA,NA,NA
+"control",33001,"NH","Belknap County",4,43.525,-71.425,NA,NA,NA
+"control",33005,"NH","Cheshire County",4,42.925,-72.245,NA,NA,NA
+"control",33013,"NH","Merrimack County",4,43.305,-71.685,NA,NA,NA
+"control",35035,"NM","Otero County",4,32.615,-105.735,NA,NA,NA
+"control",35039,"NM","Rio Arriba County",4,36.515,-106.695,NA,NA,NA
+"control",36009,"NY","Cattaraugus County",4,42.255,-78.685,NA,NA,NA
+"control",36011,"NY","Cayuga County",4,42.925,-76.555,NA,NA,NA
+"control",36013,"NY","Chautauqua County",4,42.235,-79.365,NA,NA,NA
+"control",36023,"NY","Cortland County",4,42.595,-76.065,NA,NA,NA
+"control",36035,"NY","Fulton County",4,43.115,-74.415,NA,NA,NA
+"control",36037,"NY","Genesee County",4,43.005,-78.195,NA,NA,NA
+"control",36057,"NY","Montgomery County",4,42.905,-74.435,NA,NA,NA
+"control",36089,"NY","St. Lawrence County",4,44.495,-75.065,NA,NA,NA
+"control",36101,"NY","Steuben County",4,42.275,-77.385,NA,NA,NA
+"control",36105,"NY","Sullivan County",4,41.715,-74.765,NA,NA,NA
+"control",37031,"NC","Carteret County",4,34.835,-76.655,NA,NA,NA
+"control",37045,"NC","Cleveland County",4,35.335,-81.555,NA,NA,NA
+"control",37055,"NC","Dare County",4,35.765,-75.775,NA,NA,NA
+"control",37077,"NC","Granville County",4,36.305,-78.655,NA,NA,NA
+"control",37083,"NC","Halifax County",4,36.255,-77.655,NA,NA,NA
+"control",37085,"NC","Harnett County",4,35.365,-78.865,NA,NA,NA
+"control",37105,"NC","Lee County",4,35.475,-79.165,NA,NA,NA
+"control",37107,"NC","Lenoir County",4,35.245,-77.635,NA,NA,NA
+"control",37125,"NC","Moore County",4,35.315,-79.475,NA,NA,NA
+"control",37139,"NC","Pasquotank County",4,36.295,-76.285,NA,NA,NA
+"control",37155,"NC","Robeson County",4,34.645,-79.105,NA,NA,NA
+"control",37161,"NC","Rutherford County",4,35.405,-81.915,NA,NA,NA
+"control",37171,"NC","Surry County",4,36.415,-80.685,NA,NA,NA
+"control",37181,"NC","Vance County",4,36.365,-78.405,NA,NA,NA
+"control",37195,"NC","Wilson County",4,35.705,-77.915,NA,NA,NA
+"control",39005,"OH","Ashland County",4,40.845,-82.265,NA,NA,NA
+"control",39007,"OH","Ashtabula County",4,41.715,-80.745,NA,NA,NA
+"control",39009,"OH","Athens County",4,39.335,-82.045,NA,NA,NA
+"control",39011,"OH","Auglaize County",4,40.565,-84.215,NA,NA,NA
+"control",39029,"OH","Columbiana County",4,40.775,-80.775,NA,NA,NA
+"control",39033,"OH","Crawford County",4,40.855,-82.915,NA,NA,NA
+"control",39039,"OH","Defiance County",4,41.325,-84.485,NA,NA,NA
+"control",39043,"OH","Erie County",4,41.375,-82.635,NA,NA,NA
+"control",39063,"OH","Hancock County",4,41.005,-83.665,NA,NA,NA
+"control",39077,"OH","Huron County",4,41.145,-82.595,NA,NA,NA
+"control",39083,"OH","Knox County",4,40.405,-82.425,NA,NA,NA
+"control",39101,"OH","Marion County",4,40.585,-83.155,NA,NA,NA
+"control",39119,"OH","Muskingum County",4,39.965,-81.945,NA,NA,NA
+"control",39123,"OH","Ottawa County",4,41.535,-83.105,NA,NA,NA
+"control",39141,"OH","Ross County",4,39.345,-83.055,NA,NA,NA
+"control",39143,"OH","Sandusky County",4,41.355,-83.145,NA,NA,NA
+"control",39145,"OH","Scioto County",4,38.805,-82.995,NA,NA,NA
+"control",39147,"OH","Seneca County",4,41.125,-83.125,NA,NA,NA
+"control",39149,"OH","Shelby County",4,40.335,-84.205,NA,NA,NA
+"control",39157,"OH","Tuscarawas County",4,40.445,-81.475,NA,NA,NA
+"control",39167,"OH","Washington County",4,39.455,-81.495,NA,NA,NA
+"control",39169,"OH","Wayne County",4,40.835,-81.885,NA,NA,NA
+"control",40101,"OK","Muskogee County",4,35.615,-95.375,NA,NA,NA
+"control",40119,"OK","Payne County",4,36.075,-96.975,NA,NA,NA
+"control",40125,"OK","Pottawatomie County",4,35.205,-96.945,NA,NA,NA
+"control",40137,"OK","Stephens County",4,34.485,-97.845,NA,NA,NA
+"control",40147,"OK","Washington County",4,36.715,-95.905,NA,NA,NA
+"control",41007,"OR","Clatsop County",4,45.995,-123.655,NA,NA,NA
+"control",41019,"OR","Douglas County",4,43.285,-123.165,NA,NA,NA
+"control",41059,"OR","Umatilla County",4,45.595,-118.735,NA,NA,NA
+"control",42033,"PA","Clearfield County",4,41.005,-78.475,NA,NA,NA
+"control",42035,"PA","Clinton County",4,41.235,-77.635,NA,NA,NA
+"control",42039,"PA","Crawford County",4,41.685,-80.105,NA,NA,NA
+"control",42063,"PA","Indiana County",4,40.655,-79.085,NA,NA,NA
+"control",42073,"PA","Lawrence County",4,40.995,-80.335,NA,NA,NA
+"control",42087,"PA","Mifflin County",4,40.615,-77.615,NA,NA,NA
+"control",42097,"PA","Northumberland County",4,40.855,-76.705,NA,NA,NA
+"control",42107,"PA","Schuylkill County",4,40.705,-76.215,NA,NA,NA
+"control",42111,"PA","Somerset County",4,39.975,-79.025,NA,NA,NA
+"control",42119,"PA","Union County",4,40.965,-77.055,NA,NA,NA
+"control",42121,"PA","Venango County",4,41.405,-79.765,NA,NA,NA
+"control",45021,"SC","Cherokee County",4,35.045,-81.615,NA,NA,NA
+"control",45043,"SC","Georgetown County",4,33.435,-79.325,NA,NA,NA
+"control",45047,"SC","Greenwood County",4,34.155,-82.125,NA,NA,NA
+"control",45073,"SC","Oconee County",4,34.755,-83.065,NA,NA,NA
+"control",45075,"SC","Orangeburg County",4,33.445,-80.795,NA,NA,NA
+"control",47003,"TN","Bedford County",4,35.515,-86.455,NA,NA,NA
+"control",47031,"TN","Coffee County",4,35.495,-86.075,NA,NA,NA
+"control",47035,"TN","Cumberland County",4,35.955,-84.995,NA,NA,NA
+"control",47053,"TN","Gibson County",4,35.995,-88.935,NA,NA,NA
+"control",47059,"TN","Greene County",4,36.175,-82.845,NA,NA,NA
+"control",47107,"TN","McMinn County",4,35.425,-84.615,NA,NA,NA
+"control",47141,"TN","Putnam County",4,36.145,-85.495,NA,NA,NA
+"control",47155,"TN","Sevier County",4,35.785,-83.525,NA,NA,NA
+"control",48143,"TX","Erath County",4,32.235,-98.215,NA,NA,NA
+"control",48189,"TX","Hale County",4,34.075,-101.825,NA,NA,NA
+"control",48203,"TX","Harrison County",4,32.545,-94.365,NA,NA,NA
+"control",48213,"TX","Henderson County",4,32.215,-95.855,NA,NA,NA
+"control",48227,"TX","Howard County",4,32.305,-101.435,NA,NA,NA
+"control",48249,"TX","Jim Wells County",4,27.735,-98.085,NA,NA,NA
+"control",48265,"TX","Kerr County",4,30.065,-99.345,NA,NA,NA
+"control",48273,"TX","Kleberg County",4,27.435,-97.725,NA,NA,NA
+"control",48321,"TX","Matagorda County",4,28.825,-96.005,NA,NA,NA
+"control",48349,"TX","Navarro County",4,32.045,-96.475,NA,NA,NA
+"control",48427,"TX","Starr County",4,26.565,-98.735,NA,NA,NA
+"control",48471,"TX","Walker County",4,30.745,-95.565,NA,NA,NA
+"control",48481,"TX","Wharton County",4,29.285,-96.215,NA,NA,NA
+"control",49021,"UT","Iron County",4,37.865,-113.285,NA,NA,NA
+"control",49043,"UT","Summit County",4,40.865,-110.955,NA,NA,NA
+"control",50021,"VT","Rutland County",4,43.585,-73.035,NA,NA,NA
+"control",50023,"VT","Washington County",4,44.275,-72.615,NA,NA,NA
+"control",51089,"VA","Henry County",4,36.685,-79.875,NA,NA,NA
+"control",51143,"VA","Pittsylvania County",4,36.825,-79.395,NA,NA,NA
+"control",51590,"VA","Danville city",4,36.585,-79.405,NA,NA,NA
+"control",51690,"VA","Martinsville city",4,36.685,-79.865,NA,NA,NA
+"control",53027,"WA","Grays Harbor County",4,47.155,-123.775,NA,NA,NA
+"control",53029,"WA","Island County",4,48.165,-122.545,NA,NA,NA
+"control",53037,"WA","Kittitas County",4,47.125,-120.675,NA,NA,NA
+"control",53041,"WA","Lewis County",4,46.585,-122.395,NA,NA,NA
+"control",53045,"WA","Mason County",4,47.355,-123.185,NA,NA,NA
+"control",53075,"WA","Whitman County",4,46.905,-117.525,NA,NA,NA
+"control",54049,"WV","Marion County",4,39.515,-80.245,NA,NA,NA
+"control",54055,"WV","Mercer County",4,37.405,-81.105,NA,NA,NA
+"control",55027,"WI","Dodge County",4,43.415,-88.705,NA,NA,NA
+"control",55055,"WI","Jefferson County",4,43.025,-88.775,NA,NA,NA
+"control",55071,"WI","Manitowoc County",4,44.125,-87.805,NA,NA,NA
+"control",55097,"WI","Portage County",4,44.475,-89.495,NA,NA,NA
+"control",55111,"WI","Sauk County",4,43.425,-89.945,NA,NA,NA
+"control",55127,"WI","Walworth County",4,42.675,-88.535,NA,NA,NA
+"control",55141,"WI","Wood County",4,44.455,-90.035,NA,NA,NA
+"control",56001,"WY","Albany County",4,41.655,-105.725,NA,NA,NA
+"control",72043,"PR","Coamo Municipio",4,18.095,-66.355,NA,NA,NA
+"control",72123,"PR","Salinas Municipio",4,18.005,-66.255,NA,NA,NA
+"control",72133,"PR","Santa Isabel Municipio",4,17.995,-66.385,NA,NA,NA
