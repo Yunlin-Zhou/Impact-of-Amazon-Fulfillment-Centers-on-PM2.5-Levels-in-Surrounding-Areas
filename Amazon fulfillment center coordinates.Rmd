@@ -1,0 +1,46 @@
+---
+title: "Amazon fulfillment center coordinates"
+author: "Yunlin Zhou"
+date: "2023-02-03"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+library(tidyverse)
+library(opencage)
+```
+
+```{r}
+# Import the original Amazon fulfillment center address data frame
+amazon_fulfillment_address <- read.csv("amazon-fulfillment-fips.csv")
+
+# Combine the 2-5 columns as a more accurate address column
+amazon_fulfillment_address$placenames <- paste(amazon_fulfillment_address[,2], amazon_fulfillment_address[,3], amazon_fulfillment_address[,4], amazon_fulfillment_address[,5], sep = ", ")
+```
+
+```{r}
+# Define my API key
+api_key <- "78a6e970d9024c96a81ea938bf3ceaa0"
+oc_config(key = Sys.getenv(api_key))
+
+# Get the latitude and longitude coordinates for the address
+coordinates_list <- lapply(amazon_fulfillment_address$placenames, function(x) {
+  result <- oc_forward(placename = x, countrycode = "us")
+  result <- result %>%
+    as.data.frame() %>%
+    select(oc_formatted, oc_lat, oc_lng)
+  result <- result[1,]
+})
+```
+
+```{r}
+# Convert the coordinates list as a data frame 
+coordinates_df <- do.call(rbind, coordinates_list)
+
+# Combine the coordinates with the original Amazon fulfillment center address data frame
+amazon_fulfillment_coordinates <- bind_cols(amazon_fulfillment_address, coordinates_df)
+
+# Output Amazon fulfillment center coordinates data frame to a csv file
+write.csv(amazon_fulfillment_coordinates, "amazon_fulfillment_coordinates.csv", row.names = FALSE)
+```
+

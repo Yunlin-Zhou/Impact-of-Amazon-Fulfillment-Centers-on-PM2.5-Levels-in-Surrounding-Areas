@@ -1,0 +1,134 @@
+---
+title: "Synthetic controls with staggered adoption"
+author: "Yunlin Zhou"
+date: "2023-04-21"
+output: word_document
+---
+
+```{r}
+library(augsynth)
+library(tidyverse)
+```
+
+# Import the dataset
+
+```{r}
+merge_df <- read.csv("fc_rucc_pm25_merge.csv")
+```
+
+# Create a new dataset for multisynth()
+
+```{r}
+analysis_df <- merge_df %>%
+  mutate(year_opened = ifelse(is.na(year_opened), 
+                                   Inf, year_opened),
+           cbr = 1 * (year >= year_opened))%>%
+  select(cbr, id, year, PM2.5, RUCC_2013) %>%
+  distinct(cbr, id, year, PM2.5, RUCC_2013, .keep_all = TRUE) %>%
+  filter(complete.cases(.))
+
+analysis_df <- distinct(analysis_df, id, year, .keep_all = TRUE)
+
+analysis_df$id <- as.factor(analysis_df$id)
+
+```
+
+# Using Synthetic controls with staggered adoption (without RUCC)
+
+```{r}
+ppool_syn <- multisynth(form = PM2.5 ~ cbr,
+           unit = id,
+           time = year,
+           data = analysis_df,
+           fixedeff = TRUE,
+           time_cohort = TRUE,
+           n_leads = 3)
+```
+
+
+```{r}
+print(ppool_syn$nu)
+```
+
+
+```{r}
+ppool_syn_summ <- summary(ppool_syn)
+ppool_syn_summ
+```
+
+```{r}
+plot(ppool_syn_summ)
+```
+
+```{r}
+plot(ppool_syn_summ, levels = "Average")
+```
+
+
+# Using Synthetic controls with staggered adoption (with RUCC)
+
+```{r}
+ppool_syn_rucc <- multisynth(form = PM2.5 ~ cbr| RUCC_2013,
+           unit = id,
+           time = year,
+           data = analysis_df,
+           fixedeff = TRUE,
+           time_cohort = TRUE,
+           n_leads = 3)
+```
+
+
+```{r}
+print(ppool_syn_rucc$nu)
+```
+
+
+```{r}
+ppool_syn_rucc_summ <- summary(ppool_syn_rucc)
+ppool_syn_rucc_summ
+```
+
+
+```{r}
+plot(ppool_syn_rucc_summ)
+```
+
+
+```{r}
+plot(ppool_syn_rucc_summ, levels = "Average")
+```
+
+
+
+# Using Synthetic controls with staggered adoption (with RUCC, nu=.1, lambda=.000135)
+
+```{r}
+ppool_syn_rucc_nu <- multisynth(form = PM2.5 ~ cbr| RUCC_2013,
+           unit = id,
+           time = year,
+           data = analysis_df,
+           fixedeff = TRUE,
+           time_cohort = TRUE,
+           nu=.1,
+           lambda=.000135,
+           n_leads = 3)
+```
+
+
+
+```{r}
+ppool_syn_rucc_nu_summ <- summary(ppool_syn_rucc_nu)
+ppool_syn_rucc_nu_summ
+```
+
+
+```{r}
+plot(ppool_syn_rucc_nu_summ)
+```
+
+
+```{r}
+plot(ppool_syn_rucc_nu_summ, levels = "Average")
+```
+
+

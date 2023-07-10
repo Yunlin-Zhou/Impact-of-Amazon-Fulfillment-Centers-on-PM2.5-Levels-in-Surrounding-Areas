@@ -1,0 +1,40 @@
+---
+title: "Amazon fulfillment center rounded coordinates"
+author: "Yunlin Zhou"
+date: "2023-03-07"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse)
+```
+
+```{r}
+# Import Amazon fulfillment center coordinates data frame
+df <- read.csv("amazon_fulfillment_coordinates.csv")
+```
+
+```{r}
+# Create new coordinates columns that rounds to the nearest 0.005
+df$lat_rounded <- sapply(df$oc_lat, function(x) {
+  rounded_value = round(x * 200) / 200
+  if (round(rounded_value*1000) %% 10 != 5) {
+    rounded_value = (floor(rounded_value * 100) + 0.5) / 100
+  }
+  rounded_value
+})
+df$lng_rounded <- sapply(df$oc_lng, function(x) {
+  rounded_value = round(x * 200) / 200
+  if (round(rounded_value*1000) %% 10 != 5) {
+    rounded_value = (floor(rounded_value * 100) + 0.5) / 100
+  }
+  rounded_value
+})
+```
+
+```{r}
+# Output the new Amazon fulfillment center coordinates data frame to a csv file
+write.csv(df, "amazon_fulfillment_coordinates_rounded.csv", row.names = FALSE)
+```
+

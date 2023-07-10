@@ -1,0 +1,57 @@
+---
+title: "County RUCC coordinates"
+author: "Yunlin Zhou"
+date: "2023-03-20"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse)
+```
+
+
+```{r}
+# Import the RUCC Score 2013 table
+rucc_df <- readxl::read_excel("ruralurbancodes2013.xls", sheet = 1) %>% drop_na(RUCC_2013)
+rucc_df$fips_code <- as.numeric(rucc_df$FIPS)
+
+# Import the county FIPS table
+county_latlng <- read.csv("us_county_latlng.csv")
+```
+
+```{r}
+rucc_latlng <- left_join(rucc_df, county_latlng, by = "fips_code")
+```
+
+```{r}
+# Create new coordinates columns that rounds to the nearest 0.005
+rucc_latlng$lat_rounded <- sapply(rucc_latlng$lat, function(x) {
+  if (is.na(x) || !is.numeric(x)) {
+    rounded_value = NA
+  } else {
+    rounded_value = round(x * 200) / 200
+    if (round(rounded_value*1000) %% 10 != 5) {
+      rounded_value = (floor(rounded_value * 100) + 0.5) / 100
+    }
+  }
+  rounded_value
+})
+
+rucc_latlng$lng_rounded <- sapply(rucc_latlng$lng, function(x) {
+  if (is.na(x) || !is.numeric(x)) {
+    rounded_value = NA
+  } else {
+    rounded_value = round(x * 200) / 200
+    if (round(rounded_value*1000) %% 10 != 5) {
+      rounded_value = (floor(rounded_value * 100) + 0.5) / 100
+    }
+  }
+  rounded_value
+})
+```
+
+```{r}
+# Output the new Amazon fulfillment center coordinates data frame to a csv file
+write.csv(rucc_latlng, "us_county_fips_coordinates_rounded.csv", row.names = FALSE)
+```

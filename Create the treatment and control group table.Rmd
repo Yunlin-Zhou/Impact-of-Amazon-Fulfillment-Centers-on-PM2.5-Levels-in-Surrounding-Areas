@@ -1,0 +1,139 @@
+---
+title: "Create the treatment and control group table"
+author: "Yunlin Zhou"
+date: "2023-03-07"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse)
+```
+
+
+```{r}
+# Import the Amazon Fulfillment Center Coordinates Rounded table
+fc_df <- read.csv("amazon_fulfillment_coordinates_rounded.csv") %>%
+   rename(lat_rounded_fc = lat_rounded, lng_rounded_fc = lng_rounded)
+
+# Import the RUCC Score 2013 table
+rucc_df <- read.csv("us_county_fips_coordinates_rounded.csv") %>% drop_na(RUCC_2013) %>%
+  rename(county_fips = FIPS)
+
+```
+
+# Merge the Amazon FC and RUCC score table based on FIPS code into one table
+
+```{r}
+# Left join the RUCC Score 2013 table and the Amazon coordinates table
+fc_rucc <- left_join(rucc_df, fc_df, by = "county_fips")
+row_indices <- order(fc_rucc$RUCC_2013)
+fc_rucc <- fc_rucc[row_indices, ]
+```
+
+# Subset the merged table based on RUCC score (a list of 9 subset lists)
+
+```{r}
+# Create a list to store the subsets
+rucc_score_subsets <- list()
+
+# Loop through each unique RUCC_2013 value
+for (i in unique(fc_rucc$RUCC_2013)) {
+  
+  # Subset the table to only include rows with the current RUCC_2013 value
+  subset_table <- fc_rucc[fc_rucc$RUCC_2013 == i, ]
+  
+  # Add the subset table to the list of subsets
+  rucc_score_subsets[[i]] <- subset_table
+  
+}
+
+```
+
+# Extract the 9 subsets from the list
+
+```{r}
+# Loop through each unique RUCC score value
+for (i in unique(fc_rucc$RUCC_2013)) {
+  
+  # Extract the subset table for the current RUCC score value
+  table_name <- paste0("rucc_score", i )
+  assign(table_name, as.data.frame(rucc_score_subsets[[i]]))
+}
+
+```
+
+# Check the number of Amazon fulfillment centers with diffrent Rucc socre
+
+```{r}
+# Create a list of data frames
+df_list <- list(rucc_score1, rucc_score2, rucc_score3, rucc_score4, rucc_score5, rucc_score6, rucc_score7, rucc_score8, rucc_score9)
+
+# Loop over each data frame and check the address column for missing values
+for (i in 1:9) {
+  
+  # Check if the specified column is null
+  if (all(is.na(df_list[[i]]$address))) {
+    print(paste("There are no Amazon fulfillment centers in  the area where the Rucc socre equals", i, "."))
+  } 
+  
+  else {
+    print(paste("There are Amazon fulfillment centers in the area where the Rucc socre equals", i, "."))
+    
+  # Count the number of non-null rows in "my_column"
+    non_null_rows <- sum(!is.na(df_list[[i]]$address))
+
+  # Print the result
+    print(paste("The number of Amazon fulfillment centers where the Rucc socre equals", i, "is", non_null_rows))
+  }
+}
+
+```
+
+Since the only Amazon fulfillment center where the Rucc socre equals 7 opened in year 1999, we will exclude this Amazon fulfillment center.
+
+#	Subset to fulfillment centers that opened 2005-2017 (rucc_score1_combined; rucc_score2_combined; rucc_score3_combined; rucc_score4_combined)
+
+```{r}
+# create a list of the table names
+table_names <- c("rucc_score1", "rucc_score2", "rucc_score3", "rucc_score4")
+
+# loop through each table and apply the code
+for (name in table_names) {
+  # get the table object by name
+  table <- get(name)
+  
+  # filter the table to include only years 2005-2017 and add a treatment/control column
+  treatment <- table %>%
+    filter(year_opened %in% (2005:2017)) %>%
+    mutate(group = "treatment")
+  
+  control <- table %>%
+    filter(is.na(address)) %>%
+    mutate(group = "control")
+  
+  # vertically combine the treatment and control groups into a new table
+  combined_table <- rbind(treatment, control)
+  
+  # assign the new table to a new object
+  new_name <- paste0(name, "_combined")
+  assign(new_name, combined_table)
+}
+
+```
+
+### Combine the 4 subsets into a new table
+
+```{r}
+# Combine the subsets into a new table
+
+fc_rucc_combined_full <- rbind(rucc_score1_combined, rucc_score2_combined, rucc_score3_combined, rucc_score4_combined)
+
+fc_rucc_combined <- fc_rucc_combined_full %>%
+  select(group, county_fips, State, County_Name, RUCC_2013, lat_rounded, lng_rounded, oc_formatted, lat_rounded_fc, lng_rounded_fc)
+
+write.csv(fc_rucc_combined_full, "fc_rucc_combined_full.csv", row.names = FALSE)
+
+write.csv(fc_rucc_combined, "fc_rucc_combined.csv", row.names = FALSE)
+```
+

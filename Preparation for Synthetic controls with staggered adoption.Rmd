@@ -1,0 +1,133 @@
+---
+title: "Preparation for Synthetic controls with staggered adoption"
+author: "Yunlin Zhou"
+date: "2023-04-20"
+output: html_document
+---
+```{r}
+library(augsynth)
+library(tidyverse)
+library(reshape2)
+library(ncdf4)
+```
+
+# Read the .nc files
+
+```{r}
+# Set the directory containing the .nc files
+setwd("./nc files")
+
+# Get a list of all the .nc files in the directory
+nc_files <- list.files(pattern = "*.nc")
+
+# Loop through each .nc file and generate a table from the array
+tables <- lapply(nc_files, function(file) {
+  
+  # Open the .nc file
+  nc <- nc_open(file)
+  
+  # Extract the array and add row and column names
+  array <- ncvar_get(nc, "PM25")
+  rownames(array) <- ncvar_get(nc, "LON")
+  colnames(array) <- ncvar_get(nc, "LAT")
+  
+  # Convert the array into a table with 3 columns
+  table <- melt(array, varnames = c("lon", "lat"), value.name = paste("PM2.5 in", substr(file, 1, 4)))
+  
+  # Close the .nc file
+  nc_close(nc)
+  
+  # Return the resulting table
+  return(table)
+})
+```
+
+# Extract the PM2.5 data frames from the list
+
+```{r}
+for (i in seq_along(tables)) {
+  table_name <- paste0("PM25_table", as.character(i + 1999) )
+  assign(table_name, as.data.frame(tables[[i]]))
+}
+```
+
+# Merge the PM2.5 data frames into 1
+
+```{r}
+years <- c(2000:2018)
+
+# create an empty data frame to store the results
+PM25_df <- data.frame()
+
+# loop through the years and left join the corresponding table to the existing data frame
+for (year in years) {
+  table_name <- paste0("PM25_table", year)
+  table <- get(table_name)
+  if (nrow(PM25_df) == 0) {
+    PM25_df <- table
+  } else {
+    PM25_df <- left_join(PM25_df, table, by = c("lon", "lat"))
+  }
+}
+```
+
+# Import the rucc combined table
+
+```{r}
+fc_rucc_df = read.csv("./fc_rucc_combined_full.csv") %>%
+  select(county_fips, State, County_Name, RUCC_2013, lat_rounded, lng_rounded,year_opened, code, group) %>%
+  rename(lat = lat_rounded,
+         lon = lng_rounded)
+```
+
+# Combine the 2 tables and save them as csv files
+
+```{r}
+# Left join the 2 tables
+left_join_df <- left_join(fc_rucc_df, PM25_df, by = c("lat", "lon")) %>%
+  pivot_longer(cols=c('PM2.5 in 2000':'PM2.5 in 2018'),
+                    names_to='year',
+                    values_to='PM2.5') 
+
+left_join_df$year <- gsub("PM2.5 in ", "", left_join_df$year) %>%
+  as.numeric(left_join_df$year)
+
+left_join_df <- left_join_df %>% 
+  mutate(group = ifelse(group == "control", 0, 1))
+
+left_join_df <- left_join_df %>% 
+  distinct(lon, lat, year, .keep_all = TRUE)
+
+left_join_df <- left_join_df %>%
+  group_by(lon, lat) %>%
+  mutate(id = cur_group_id())
+```
+
+
+```{r}
+# Merge the 2 tables
+merge_df <- merge(fc_rucc_df, PM25_df, by = c("lat", "lon")) %>%
+  pivot_longer(cols=c('PM2.5 in 2000':'PM2.5 in 2018'),
+                    names_to='year',
+                    values_to='PM2.5')
+
+merge_df$year <- gsub("PM2.5 in ", "", merge_df$year ) %>%
+  as.numeric(merge_df$year)
+
+merge_df <- merge_df %>%
+  mutate(group = ifelse(group == "control", 0, 1))
+
+merge_df <- merge_df %>% 
+  distinct(lon, lat, year, .keep_all = TRUE)
+
+merge_df <- merge_df %>%
+  group_by(lon, lat) %>%
+  mutate(id = cur_group_id())
+```
+
+
+```{r}
+write.csv(left_join_df , "fc_rucc_pm25_left.csv", row.names = FALSE)
+write.csv(merge_df, "fc_rucc_pm25_merge.csv", row.names = FALSE)
+```
+

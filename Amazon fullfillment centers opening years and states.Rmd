@@ -1,0 +1,69 @@
+---
+title: "Amazon fullfillment centers opening years and states"
+author: "Yunlin Zhou"
+date: "2023-04-22"
+output: html_document
+---
+
+```{r}
+library(ggplot2)
+library(tidyverse)
+library(base)
+```
+
+
+```{r}
+amazon_centers <- read.csv("amazon_fulfillment_coordinates_rounded.csv")
+```
+
+
+```{r}
+centers_by_year <- amazon_centers %>%
+  group_by(year_opened) %>%
+  summarize(num_centers = n())
+
+ggplot(centers_by_year, aes(x = year_opened, y = num_centers)) +
+  geom_bar(stat = "identity") +
+  labs(title = "Number of Amazon Fulfillment Centers Opened by Year", 
+       x = "Year", y = "Number of Centers")
+
+ggsave("centers_by_year.png", plot = last_plot(), width = 10, height = 6)
+```
+
+
+```{r}
+centers_by_state <- amazon_centers %>%
+  group_by(state) %>%
+  summarize(num_centers = n())
+
+centers_by_state$state_code <- state.abb[match(centers_by_state$state, state.name)]
+
+ggplot(centers_by_state, aes(x = state_code, y = num_centers)) +
+  geom_bar(stat = "identity") +
+  labs(title = "Number of Amazon Fulfillment Centers Opened by State", 
+       x = "State", y = "Number of Centers")
+
+ggsave("centers_by_state.png", plot = last_plot(), width = 14, height = 6)
+```
+
+
+```{r}
+# create a data frame with the number of Amazon fulfillment centers in each RUCC score
+df <- data.frame(RUCC_score = c(1, 2, 3, 4), 
+                 centers_count = c(279, 101, 8, 3))
+
+# create the bar plot
+ggplot(df, aes(x = RUCC_score, y = centers_count)) +
+  geom_bar(stat = "identity") +
+  labs(x = "RUCC score", y = "Number of fulfillment centers",
+       title = "Distribution of Amazon fulfillment centers by RUCC score")
+
+ggsave("Distribution of Amazon fulfillment centers by RUCC score.png", plot = last_plot(), width = 10, height = 6)
+
+```
+
+
+
+
+
+
