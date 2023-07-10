@@ -6,7 +6,7 @@ This study investigates the impact of Amazon's fulfillment centers on surroundin
 On this page, I will introduce the coding steps of this project and list all the output files.
 
 ### Step 1
-Generate the latitude and longitude coordinates of the original Amazon fulfillment center address data (amazon-fulfillment-fips.csv) by using the r package #opencage# (https://opencagedata.com/)
+Generate the latitude and longitude coordinates of the original Amazon fulfillment center address data (amazon-fulfillment-fips.csv) by using the r package # opencage # (https://opencagedata.com/)
 #### Code: 
 Amazon fulfillment center coordinates
 #### Output:
@@ -21,9 +21,11 @@ Create the PM2.5 data frame from 2000 to 2018
 To merge the Amazon fulfillment center coordinates data with our PM2.5 data, we rounded the latitude and longitude coordinates of the Amazon fulfillment centers and RUCC Score table to 3 decimals.
 #### Code: 
 Amazon fulfillment center rounded coordinates
+
 County RUCC coordinates
 #### Output: 
 amazon_fulfillment_coordinates_rounded.csv
+
 us_county_fips_coordinates_rounded.csv
 
 ### Step 4
@@ -34,6 +36,7 @@ Subset to fulfillment centers that opened 2005-2017.
 Create the treatment and control group table
 #### Output: 
 fc_rucc_combined.csv (RUCC score equals 1 – 4)
+
 fc_rucc_combined_full.csv (full version)
 
 ### Step 5
@@ -42,10 +45,11 @@ Combine the PM2.5 table and the RUCC-Amazon FC table.
 Preparation for Synthetic controls with staggered adoption
 #### Output: 
 fc_rucc_pm25_merge.csv
+
 fc_rucc_pm25_left.csv (left-join version)
 
 ### Step 6
-Using Synthetic controls with staggered adoption (r package #augsynth#) to estimate the impact of Amazon Fulfillment Centers on PM2.5 Levels in Surrounding Areas
+Using Synthetic controls with staggered adoption (r package # augsynth #) to estimate the impact of Amazon Fulfillment Centers on PM2.5 Levels in Surrounding Areas
 #### Code: 
 Synthetic controls with staggered adoption
 #### Output: 
